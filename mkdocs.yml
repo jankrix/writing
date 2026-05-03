@@ -1,0 +1,66 @@
+site_name: Erick Liemarga
+site_url: https://jankrix.github.io/writing/
+site_author: Erick Liemarga
+site_description: Books from the operator's chair, not the keynote stage. Practical, not polished. Useful, not beautiful.
+
+repo_url: https://github.com/jankrix/writing
+repo_name: jankrix/writing
+edit_uri: ""
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Leadership as Responsibility:
+      - leadership-as-responsibility/index.md
+      - 1. Clear Mind Before Action: leadership-as-responsibility/01-clear-mind.md
+      - 2. Choose the Hard Right Over the Easy Peace: leadership-as-responsibility/02-hard-right.md
+      - 3. Invite Correction Before You Demand Correction: leadership-as-responsibility/03-invite-correction.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jankrix
