@@ -42,9 +42,10 @@ nav:
   - Home: index.md
   - Leadership as Responsibility:
       - leadership-as-responsibility/index.md
-      - 1. Clear Mind Before Action: leadership-as-responsibility/01-clear-mind.md
-      - 2. Choose the Hard Right Over the Easy Peace: leadership-as-responsibility/02-hard-right.md
-      - 3. Invite Correction Before You Demand Correction: leadership-as-responsibility/03-invite-correction.md
+      - Part 1 — Lead Yourself First:
+          - 1. Clear Mind Before Action: leadership-as-responsibility/01-clear-mind.md
+          - 2. Choose the Hard Right Over the Easy Peace: leadership-as-responsibility/02-hard-right.md
+          - 3. Invite Correction Before You Demand Correction: leadership-as-responsibility/03-invite-correction.md
 
 markdown_extensions:
   - admonition
