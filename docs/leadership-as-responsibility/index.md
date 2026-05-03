@@ -48,7 +48,7 @@ The progression is **Self → Decision → Team → Communication → System.** 
 
 *Judgment, speed, evidence, root cause, direction.*
 
-4. Decide Fast, Learn Faster *(in progress)*
+4. [Decide Fast, Learn Faster](04-decide-fast.md)
 5. Find the Root, Not the Scapegoat *(in progress)*
 6. Set Direction, Not Just Motion *(in progress)*
 
