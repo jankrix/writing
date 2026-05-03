@@ -164,15 +164,17 @@ The point is not control. The point is responsibility.
 
 Before deciding, classify the call. Most sit cleanly in one category. Some sit between two — pick the closer one and hold the line.
 
-**1. Reversible and low-risk.**{: #rm-1 } Decide fast. Move and adjust. Most decisions live here. Most leaders treat them like irreversible ones.
+!!! abstract ""
 
-**2. Reversible and medium-risk.**{: #rm-2 } Decide with what you have. Build a counter-plan. Set a review date. If the signal goes the wrong way, you already know what you will do next.
+    **1. Reversible and low-risk.**{: #rm-1 } Decide fast. Move and adjust. Most decisions live here. Most leaders treat them like irreversible ones.
 
-**3. Reversible and high-risk.**{: #rm-3 } Decide, but monitor closely. Pre-define the signal that means roll back. Roll back is not failure. Roll back is the plan.
+    **2. Reversible and medium-risk.**{: #rm-2 } Decide with what you have. Build a counter-plan. Set a review date. If the signal goes the wrong way, you already know what you will do next.
 
-**4. Irreversible.**{: #rm-4 } Slow down. Sleep on it. Get the data even if it costs time. People-related calls, ethical calls, structural commitments — these usually live here. These do not give back what they cost.
+    **3. Reversible and high-risk.**{: #rm-3 } Decide, but monitor closely. Pre-define the signal that means roll back. Roll back is not failure. Roll back is the plan.
 
-**5. Crisis.**{: #rm-5 } Contain first, analyze later. Speed is the principle, but only on containment. The diagnosis still needs depth — just not before the fire is out.
+    **4. Irreversible.**{: #rm-4 } Slow down. Sleep on it. Get the data even if it costs time. People-related calls, ethical calls, structural commitments — these usually live here. These do not give back what they cost.
+
+    **5. Crisis.**{: #rm-5 } Contain first, analyze later. Speed is the principle, but only on containment. The diagnosis still needs depth — just not before the fire is out.
 
 The five categories are the work. Most leaders do not need a more sophisticated framework. They need to stop treating [category 1](#rm-1) like [category 4](#rm-4), and [category 4](#rm-4) like [category 1](#rm-1).
 
