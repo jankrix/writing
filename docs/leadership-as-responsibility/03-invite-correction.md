@@ -214,31 +214,33 @@ It cannot be installed at 11pm.
 
 Test it with four checks.
 
-**1. Have I said clearly, more than once, what kinds of disagreement are welcome and at what stage of a decision they are welcome?**
+!!! abstract ""
 
-A one-time announcement does not install a rule. Repetition does. The team needs to hear it in calm rooms, in 1-on-1s, in low-stakes settings, until the rule becomes ambient.
+    **1. Have I said clearly, more than once, what kinds of disagreement are welcome and at what stage of a decision they are welcome?**
 
-The other half of this check is naming the *stage*. Disagreement before a decision is one thing. Disagreement after a decision is committed and being executed is a different thing. The team should not have to guess which phase they are in. The leader should name it out loud, every time. *This is brainstorming, not a final decision.* That sentence tells the room which rules are live.
+    A one-time announcement does not install a rule. Repetition does. The team needs to hear it in calm rooms, in 1-on-1s, in low-stakes settings, until the rule becomes ambient.
 
-**2. Has anyone on the team actually corrected me publicly, and did I respond in a way that taught the room it was safe?**
+    The other half of this check is naming the *stage*. Disagreement before a decision is one thing. Disagreement after a decision is committed and being executed is a different thing. The team should not have to guess which phase they are in. The leader should name it out loud, every time. *This is brainstorming, not a final decision.* That sentence tells the room which rules are live.
 
-The first correction is the tuition. What the leader does with it is the curriculum.
+    **2. Has anyone on the team actually corrected me publicly, and did I respond in a way that taught the room it was safe?**
 
-If no one has corrected the leader publicly yet, the standing invitation is untested. The team is still running on words, not on evidence. That is a fragile state. It will not hold under pressure.
+    The first correction is the tuition. What the leader does with it is the curriculum.
 
-**3. Do junior team members speak in the room, or only one-on-one?**
+    If no one has corrected the leader publicly yet, the standing invitation is untested. The team is still running on words, not on evidence. That is a fragile state. It will not hold under pressure.
 
-If juniors only talk one-on-one, the invitation has not reached them yet. The work is not done.
+    **3. Do junior team members speak in the room, or only one-on-one?**
 
-This is also where the leader has to lower the cost rather than raise the demand. When a level of the team is not using the invitation, pushing harder does not work. Reframing the room does. Simpler language. Smaller questions. Naming what kind of meeting it is. Make it cheap enough to speak that the cost stops being the reason for the silence.
+    If juniors only talk one-on-one, the invitation has not reached them yet. The work is not done.
 
-**4. When I get pushed back on, is my first reaction a clear-mind diagnostic, or a defense of the call?**
+    This is also where the leader has to lower the cost rather than raise the demand. When a level of the team is not using the invitation, pushing harder does not work. Reframing the room does. Simpler language. Smaller questions. Naming what kind of meeting it is. Make it cheap enough to speak that the cost stops being the reason for the silence.
 
-This is the leader's tell. The team can read it from across the room.
+    **4. When I get pushed back on, is my first reaction a clear-mind diagnostic, or a defense of the call?**
 
-The diagnostic asks: *what is this person actually saying, what does the team need, is this correction right.* The defense asks: *how do I keep my call standing.* The team can tell which one is happening, even when the leader cannot.
+    This is the leader's tell. The team can read it from across the room.
 
-If the first reaction is consistently defense, the rest of the standing invitation does not matter. The room already knows.
+    The diagnostic asks: *what is this person actually saying, what does the team need, is this correction right.* The defense asks: *how do I keep my call standing.* The team can tell which one is happening, even when the leader cannot.
+
+    If the first reaction is consistently defense, the rest of the standing invitation does not matter. The room already knows.
 
 ---
 

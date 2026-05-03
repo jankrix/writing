@@ -186,19 +186,21 @@ The feature kill was [**category 2**](#rm-2) the whole time — also reversible,
 
 Three checks before executing inside your own domain without broader announcement.
 
-**1. Is the worst case small enough to defend as experimental?**
+!!! abstract ""
 
-Not small as you would like to define it. Small as the company would define it if asked.
+    **1. Is the worst case small enough to defend as experimental?**
 
-**2. Will I take the hit honestly if it fails?**
+    Not small as you would like to define it. Small as the company would define it if asked.
 
-Including the version where you are asked about it months later, in a context that is no longer friendly.
+    **2. Will I take the hit honestly if it fails?**
 
-**3. Is this within my authority to call?**
+    Including the version where you are asked about it months later, in a context that is no longer friendly.
 
-If the answer requires a reach, the answer is no.
+    **3. Is this within my authority to call?**
 
-If yes to all three: act, do not ask. If no to any: surface it.
+    If the answer requires a reach, the answer is no.
+
+    If yes to all three: act, do not ask. If no to any: surface it.
 
 This is the fence. Use it before the phrase, not after.
 

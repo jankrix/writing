@@ -173,43 +173,45 @@ The point is honest courage in service of the mission, even when the room is raw
 
 Before staying silent on a decision you disagree with, run four questions.
 
-**1. Who pays for this silence if I am right and the decision is wrong?**
+!!! abstract ""
 
-If the cost lands on you, that is one calculation. You have a vote in your own risk.
+    **1. Who pays for this silence if I am right and the decision is wrong?**
 
-If the cost lands on people who do not have a vote in this room — junior team members, future hires, the people downstream of the decision — that is a different calculation.
+    If the cost lands on you, that is one calculation. You have a vote in your own risk.
 
-Most of the time, the cost lands on people who were not in the room. That changes the math.
+    If the cost lands on people who do not have a vote in this room — junior team members, future hires, the people downstream of the decision — that is a different calculation.
 
-**2. Is my silence protecting the mission, or protecting me?**
+    Most of the time, the cost lands on people who were not in the room. That changes the math.
 
-Sometimes silence is the right call. Principle 1 still applies. A clear mind sometimes decides this is not the moment.
+    **2. Is my silence protecting the mission, or protecting me?**
 
-The failure mode is the silence that is protecting the speaker but dressed up as protecting the mission. That dress-up is convincing from the inside. It almost always is.
+    Sometimes silence is the right call. Principle 1 still applies. A clear mind sometimes decides this is not the moment.
 
-The honest version of this question: *if there were no personal cost to me speaking up — no friction, no political capital, no awkwardness — would I still stay silent?*
+    The failure mode is the silence that is protecting the speaker but dressed up as protecting the mission. That dress-up is convincing from the inside. It almost always is.
 
-If the answer is no, the silence is not about the mission.
+    The honest version of this question: *if there were no personal cost to me speaking up — no friction, no political capital, no awkwardness — would I still stay silent?*
 
-**3. What is the smallest, most constructive objection I could make?**
+    If the answer is no, the silence is not about the mission.
 
-Not "kill it." Not "I disagree."
+    **3. What is the smallest, most constructive objection I could make?**
 
-"Tighten it." "Test it." "Pilot it first." "Two weeks of research."
+    Not "kill it." Not "I disagree."
 
-The smallest mission-serving objection beats no objection. It is also far easier for the room to hear. The size of the ask is part of how it lands.
+    "Tighten it." "Test it." "Pilot it first." "Two weeks of research."
 
-If even the smallest version feels too costly to say, that is the signal that the silence is not about the room. It is about the speaker.
+    The smallest mission-serving objection beats no objection. It is also far easier for the room to hear. The size of the ask is part of how it lands.
 
-**4. If I work behind the screen to mitigate the risk, am I doing it *with* the objection or *instead of* it?**
+    If even the smallest version feels too costly to say, that is the signal that the silence is not about the room. It is about the speaker.
 
-Private mitigation is responsible. Modeling the risk, building a pivot plan, gathering data — that is leadership work, and it should happen.
+    **4. If I work behind the screen to mitigate the risk, am I doing it *with* the objection or *instead of* it?**
 
-But it does not buy you out of the room.
+    Private mitigation is responsible. Modeling the risk, building a pivot plan, gathering data — that is leadership work, and it should happen.
 
-If the private work is *replacing* the public ask, the leader is rationing courage on the cheapest currency. The team gets the version of the leader that prepares for the worst privately and helps cause it publicly.
+    But it does not buy you out of the room.
 
-That is the failure mode my own story sat inside.
+    If the private work is *replacing* the public ask, the leader is rationing courage on the cheapest currency. The team gets the version of the leader that prepares for the worst privately and helps cause it publicly.
+
+    That is the failure mode my own story sat inside.
 
 ---
 
