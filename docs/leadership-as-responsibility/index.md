@@ -57,7 +57,7 @@ The progression is **Self → Decision → Team → Communication → System.** 
 *People, standards, trust, team composition, performance, ownership.*
 
 7. [Build the Team for the Battle Ahead](07-build-team.md)
-8. Serve the Team, Protect the Standard *(in progress)*
+8. [Serve the Team, Protect the Standard](08-serve-team.md)
 9. Develop People Until They No Longer Need You *(in progress)*
 10. Correct with Compassion, Reward with Fairness *(in progress)*
 11. Own the Failure, Distribute the Credit *(in progress)*
