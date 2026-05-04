@@ -50,6 +50,8 @@ nav:
           - 4. Decide Fast, Learn Faster: leadership-as-responsibility/04-decide-fast.md
           - 5. Find the Root, Not the Scapegoat: leadership-as-responsibility/05-find-the-root.md
           - 6. Set Direction, Not Just Motion: leadership-as-responsibility/06-set-direction.md
+      - Part 3 — Build and Lead the Team:
+          - 7. Build the Team for the Battle Ahead: leadership-as-responsibility/07-build-team.md
 
 markdown_extensions:
   - admonition
