@@ -50,7 +50,7 @@ The progression is **Self → Decision → Team → Communication → System.** 
 
 4. [Decide Fast, Learn Faster](04-decide-fast.md)
 5. [Find the Root, Not the Scapegoat](05-find-the-root.md)
-6. Set Direction, Not Just Motion *(in progress)*
+6. [Set Direction, Not Just Motion](06-set-direction.md)
 
 ### Part 3 — Build and Lead the Team
 
