@@ -66,7 +66,7 @@ The progression is **Self → Decision → Team → Communication → System.** 
 
 *Truth, clarity, framing, audience, crisis communication.*
 
-12. Communicate More When Things Are Unclear *(in progress)*
+12. [Communicate More When Things Are Unclear](12-communicate-unclear.md)
 13. Adapt the Frame, Never the Truth *(in progress)*
 
 ### Part 5 — Build the System
