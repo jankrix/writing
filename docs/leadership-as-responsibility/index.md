@@ -60,7 +60,7 @@ The progression is **Self → Decision → Team → Communication → System.** 
 8. [Serve the Team, Protect the Standard](08-serve-team.md)
 9. [Develop People Until They No Longer Need You](09-develop-people.md)
 10. [Correct with Compassion, Reward with Fairness](10-correct-reward.md)
-11. Own the Failure, Distribute the Credit *(in progress)*
+11. [Own the Failure, Distribute the Credit](11-own-failure.md)
 
 ### Part 4 — Communicate Like a Leader
 
