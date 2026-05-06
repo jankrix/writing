@@ -9,10 +9,10 @@
 
 | Signal | Your Level | Go To |
 |---|---|---|
-| "Gw belum tahu maunya apa." | **Level 1: Explorer** | [3-Month Experiment Canvas](#-3-month-experiment-canvas) |
-| "Gw udah punya arah, tapi belum credible." | **Level 2: Builder** | [3-Month Experiment Canvas](#-3-month-experiment-canvas) |
-| "Gw punya experience, tapi pengen pindah arah." | **Level 3: Shifter** | [Asset Audit Table](#-asset-audit-table) |
-| "Gw udah mentok ngerjain sendiri. Gimana caranya scale?" | **Level 4: Multiplier** | [The 3 Pillars Checklist](#%EF%B8%8F-the-3-pillars-checklist) |
+| "Gw belum tahu maunya apa." | **Level 1: Explorer** | [3-Month Experiment Canvas](#3-month-experiment-canvas) |
+| "Gw udah punya arah, tapi belum credible." | **Level 2: Builder** | [3-Month Experiment Canvas](#3-month-experiment-canvas) |
+| "Gw punya experience, tapi pengen pindah arah." | **Level 3: Shifter** | [Asset Audit Table](#asset-audit-table) |
+| "Gw udah mentok ngerjain sendiri. Gimana caranya scale?" | **Level 4: Multiplier** | [The 3 Pillars Checklist](#the-3-pillars-checklist-multiplier) |
 
 > **Don't overthink it.** Pick the signal that most sounds like you *right now*. You can always revisit a different level later.
 
@@ -25,8 +25,7 @@
 
 ### Section A: Setup
 
-```markdown
-## My 3-Month Experiment
+**My 3-Month Experiment**
 
 **Curiosity / Direction:**
 (Apa yang bikin gw penasaran? / Apa yang mau gw buktiin?)
@@ -38,7 +37,6 @@
 - Skills I already have:
 - Time I can commit per week: ___ hours
 - Money/constraints I need to respect:
-```
 
 ### Section B: The Experiment Log
 
@@ -53,8 +51,7 @@
 
 ### Section C: End-of-Experiment Reflection
 
-```markdown
-## Reflection (Month 3)
+**Reflection (Month 3)**
 
 **Am I more interested or less interested in this direction?**
 - 
@@ -69,7 +66,6 @@
 - [ ] Go deeper in this field
 - [ ] Pivot to a new curiosity
 - [ ] I need more data — run another cycle
-```
 
 ---
 
