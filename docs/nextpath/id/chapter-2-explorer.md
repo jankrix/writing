@@ -22,6 +22,7 @@ Dan lu diem. Karena lu nggak tahu.
 Bukan karena lu bego. Bukan karena lu nggak ambisius. Tapi karena lu baru aja mulai ngerti dunia — dan udah diminta punya jawaban final tentang hidup lu.
 
 Di umur segini, banyak dari kita belum pernah ngalamin cukup hal untuk tahu:
+
 - Kerjaan kayak apa yang cocok sama personality kita
 - Environment kayak apa yang bikin kita function dengan baik
 - Masalah kayak apa yang kita suka solve
@@ -137,6 +138,7 @@ Ini starting point lu. Dan tugas lu di sini simple banget: **acknowledge what yo
 Tapi apa yang beneran bikin lu penasaran.
 
 Cara nemuinnya:
+
 - Waktu lu scroll sosmed atau YouTube, konten apa yang bikin lu stop dan nonton sampai habis?
 - Kalau lu lagi ngobrol sama temen, topik apa yang bikin lu semangat?
 - Ada nggak orang yang kerjaannya bikin lu mikir "kayaknya gw pengen ngerti lebih banyak tentang itu"?
@@ -154,11 +156,19 @@ Curiosity tanpa target itu cuma daydreaming. Supaya jadi actionable, lu perlu ub
 
 Ini bedanya Exploration Target sama Career Goal:
 
+----
+
 **Career Goal:** "Gw mau jadi digital marketer."
+
 **Exploration Target:** "Gw mau explore apakah digital marketing cocok buat gw dengan cara belajar basic-nya dan bikin 5 sample konten dalam 3 bulan."
 
+----
+
 **Career Goal:** "Gw mau jadi software engineer."
+
 **Exploration Target:** "Gw mau explore apakah gw enjoy coding dengan cara belajar HTML/CSS/JavaScript dasar dan bikin 1 website sederhana dalam 2 bulan."
+
+----
 
 Lihat bedanya? Career Goal adalah tentang *menjadi sesuatu*. Exploration Target adalah tentang *mengumpulkan data* — data tentang whether you like it, whether you're decent at it, whether you want to go deeper.
 
@@ -169,6 +179,7 @@ Exploration Target yang bagus punya 3 karakteristik:
 3. **Punya output belajar.** Di akhir periode, lu harus bisa jawab: "Setelah 3 bulan ini, gw jadi lebih tertarik atau kurang tertarik? Dan kenapa?"
 
 Contoh Exploration Target yang solid:
+
 - "Explore data analytics dengan belajar Excel + basic SQL selama 2 bulan. Output: bisa analisis 1 dataset sederhana dan present insight-nya."
 - "Explore UI/UX design dengan belajar Figma selama 6 minggu. Output: redesign 3 screen dari app yang gw suka pakai."
 - "Explore content creation dengan bikin 8 postingan Instagram (captions + visual) selama 2 bulan. Output: lihat engagement dan refleksi apakah gw enjoy prosesnya."
@@ -183,6 +194,7 @@ Notice polanya: eksplorasi + output + refleksi. Bukan cuma "belajar teori doang.
 Sebelum lu mulai explore, lu perlu tahu starting point lu. Ini bukan buat ngerendahin diri lu — tapi supaya lu tahu apa yang udah lu punya dan apa yang perlu lu bangun.
 
 Tanya diri lu:
+
 - Apa yang udah gw tahu tentang field ini? (Nol pun jawaban yang valid.)
 - Apa skill yang udah gw punya, walaupun dikit, yang related ke field ini?
 - Berapa banyak waktu yang realistically bisa gw alokasiin per minggu buat eksperimen ini?
@@ -223,9 +235,13 @@ Struktur Small Experiment:
 Contoh 3-Month Experiment:
 
 **Curiosity:** Digital Marketing
+
 **Bulan 1:** Belajar basic digital marketing dari YouTube/course gratis. Pahami funnel, audience targeting, content pillars. Output: 1-page summary tentang konsep yang udah dipelajarin.
+
 **Bulan 2:** Bikin "praktik" — misalnya bantuin temen yang punya bisnis kecil untuk bikin 5 konten Instagram. Atau bikin akun sendiri dan post 8 konten. Output: 8 konten published + tracking engagement.
+
 **Bulan 3:** Analisis hasil. Dari 8 konten itu, mana yang perform? Kenapa? Apa yang lu pelajarin tentang audience? Terus tulis refleksi: apakah lu enjoy proses ini? Bagian mana yang bikin lu semangat? Bagian mana yang bikin lu pengen nguap?
+
 **Reflection:** "Gw enjoy creative part-nya (bikin visual, nulis caption), tapi gw nggak terlalu enjoy analytics part-nya (nungguin numbers, ngecek engagement setiap jam). Mungkin gw lebih cocok ke content creation daripada pure digital marketing."
 
 Notice: di akhir 3 bulan, lu belum tentu jadi ahli. Tapi lu udah punya **data diri** yang konkret. Dan data itu jauh lebih berharga daripada opini atau spekulasi.

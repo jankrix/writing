@@ -59,13 +59,23 @@ nav:
       - Part 4 — Communicate Like a Leader:
           - 12. Communicate More When Things Are Unclear: leadership-as-responsibility/12-communicate-unclear.md
   - Career Loop:
-      - nextpath/index.md
-      - Level 1 — The Explorer: nextpath/chapter-2-explorer.md
-      - Level 2 — The Builder: nextpath/chapter-3-builder.md
-      - Level 3 — The Shifter: nextpath/chapter-4-shifter.md
-      - Level 4 — The Multiplier: nextpath/chapter-5-multiplier.md
-      - The Universal Loop: nextpath/chapter-6-loop.md
-      - The Playbook: nextpath/the-playbook.md
+      - "Select Language": nextpath/index.md
+      - "Versi Indonesia":
+        - "Introduction": nextpath/id/chapter-1-introduction.md
+        - Level 1 — The Explorer: nextpath/id/chapter-2-explorer.md
+        - Level 2 — The Builder: nextpath/id/chapter-3-builder.md
+        - Level 3 — The Shifter: nextpath/id/chapter-4-shifter.md
+        - Level 4 — The Multiplier: nextpath/id/chapter-5-multiplier.md
+        - The Universal Loop: nextpath/id/chapter-6-loop.md
+        - The Playbook: nextpath/id/the-playbook.md
+      - "English Version":
+        - "Introduction": nextpath/en/chapter-1-introduction.md
+        - Level 1 — The Explorer: nextpath/en/chapter-2-explorer.md
+        - Level 2 — The Builder: nextpath/en/chapter-3-builder.md
+        - Level 3 — The Shifter: nextpath/en/chapter-4-shifter.md
+        - Level 4 — The Multiplier: nextpath/en/chapter-5-multiplier.md
+        - The Universal Loop: nextpath/en/chapter-6-loop.md
+        - The Playbook: nextpath/en/the-playbook.md
 
 markdown_extensions:
   - meta

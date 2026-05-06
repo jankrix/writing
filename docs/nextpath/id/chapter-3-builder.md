@@ -64,6 +64,7 @@ Enam fase. Lebih fokus ke eksekusi dan pembuktian. Let's walk through it.
 Ini asumsi dasarnya: di Level Builder, lu udah punya rough direction. Nggak perlu 100% yakin — tapi cukup yakin untuk commit beberapa bulan ke depan.
 
 Direction bisa berupa:
+
 - Target role: "Gw mau jadi front-end developer."
 - Target field: "Gw mau kerja di digital marketing."
 - Target industry: "Gw mau masuk ke tech startup."
@@ -83,6 +84,7 @@ Direction: "Gw mau masuk ke UI/UX design."
 Goal: "Dalam 4 bulan, gw mau punya 3 case study redesign, portfolio website, dan udah networking sama 5 designer yang kerja di industry."
 
 Goal yang bagus punya karakteristik yang sama kayak Action di Universal Loop:
+
 1. **Specific.**
 2. **Measurable.**
 3. **Time-boxed.**
@@ -165,16 +167,24 @@ Struktur Case Study yang solid:
 
 Contoh Case Study (Builder Level — mahasiswa / fresh grad):
 
+----
+
 **Context:** "Organisasi kampus gua punya Instagram yang nggak aktif. Postingan terakhir 3 bulan lalu. Engagement hampir nol. Padahal mereka butuh visibility buat recruitment member baru."
+
 **Action:** "Gua volunteer handle Instagram mereka selama 3 bulan. Gua riset audience (mostly mahasiswa baru), bikin content pillars (3 pilar: edukasi, behind-the-scenes, testimoni), dan konsisten post 3x seminggu. Gua juga bikin template Canva supaya visualnya konsisten."
+
 **Result:** "Follower naik dari 200 ke 600. Engagement rate naik dari 1% ke 8%. Recruitment member baru naik 40% dibanding periode sebelumnya."
+
 **Learning:** "Gua belajar bahwa konsistensi + relevansi konten lebih penting daripada aesthetic doang. Gua juga belajar cara ngatur content pipeline dan baca basic analytics."
 
-Ini trophy. Ini bukti. Ini jauh lebih powerful daripada "gu bisa social media" di CV.
+----
+
+Ini trophy. Ini bukti. Ini jauh lebih powerful daripada "gw bisa social media" di CV.
 
 Berapa banyak case study yang lu butuhin? Di Builder, targetnya **2-4 case study yang solid.** Nggak perlu 10. Yang penting deep, bukan wide. Masing-masing harus bisa lu ceritain dengan struktur Context-Action-Result-Learning.
 
 Case study bisa berasal dari:
+
 - Internship
 - Project kuliah yang standout
 - Volunteer
@@ -210,6 +220,7 @@ Contoh praktis buat Builder yang lagi di posisi serupa:
 Lu pengen jadi product manager, tapi lu kerja di customer support sekarang. Nggak ada yang bakal kasih lu title PM.
 
 Tapi lu bisa:
+
 - Analisis satu fitur di produk company lu yang banyak dikomplain user. Tulis analisisnya: apa pain point-nya, apa possible solution-nya, gimana lu prioritizenasinya kalau lu jadi PM.
 - Kirim ke tim product. Minta feedback. Iterate.
 - Ulangi dengan fitur lain.
@@ -219,6 +230,7 @@ Dalam 6 bulan, lu punya 3-4 dokumen analisis produk. Itu portfolio. Itu trophy. 
 Lu pengen jadi data analyst, tapi lu kerja di admin. Nggak ada yang bakal kasih lu dataset.
 
 Tapi lu bisa:
+
 - Ambil dataset publik (ada ribuan di Kaggle, Google Dataset Search).
 - Analisis. Cari insight. Visualisasiin. Tulis narasinya.
 - Publish di GitHub atau Medium.
@@ -246,6 +258,7 @@ Di dunia pendakian, ada yang namanya **Basecamp.** Basecamp bukan puncak. Baseca
 "Boring job" lu — kerjaan admin, customer service, retail, atau apa pun yang nggak related sama passion lu — bisa jadi Basecamp lu.
 
 Basecamp kasih lu:
+
 - **Income stabil** — lu bisa bayar kos, makan, transport, dan kebutuhan dasar tanpa panik.
 - **Waktu predictable** — shift lu jelas, weekend lu mostly free, lu bisa alokasiin malam atau akhir minggu buat build.
 - **Mental headspace** — kerjaan yang nggak terlalu mentally draining bisa ninggalin energi buat lu pursue passion di luar jam kerja.

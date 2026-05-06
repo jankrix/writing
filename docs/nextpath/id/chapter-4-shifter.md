@@ -57,6 +57,7 @@ Salah framing-nya ada di asumsi bahwa **apa yang lu bangun di bidang lama nggak 
 Tapi sebelum itu, let's reframe the sunk cost.
 
 Waktu yang lu habisin di bidang lama bukan "biaya yang hangus." Waktu itu adalah **research & development yang udah lu bayar.** Lu udah bayar tuition fee untuk ngerti:
+
 - Gimana industri bekerja
 - Gimana stakeholder management di real world
 - Gimana cara navigate politics kantor
@@ -80,16 +81,19 @@ Orang yang cuma punya background bidang B — mereka kompeten di bidang B. Tapi 
 Contoh nyata:
 
 Orang yang pindah dari **accounting ke product management.** Di atas kertas, accounting nggak ada hubungannya sama product. Tapi realitanya:
+
 - Lu ngerti budgeting dan P&L — lu bisa bikin business case buat fitur baru dengan lebih solid.
 - Lu ngerti compliance dan audit — lu bisa anticipate regulatory risk yang often di-skip sama PM lain.
 - Lu udah biasa kerja dengan precision dan attention to detail — skill yang banyak PM tech kekurangan.
 
 Orang yang pindah dari **journalism ke content marketing.**
+
 - Lu bisa riset dengan depth yang ngalahin content marketer kebanyakan.
 - Lu bisa nulis dengan voice yang distinctive — bukan template generic.
 - Lu ngerti cara nge-angle cerita supaya menarik — skill yang priceless di content strategy.
 
 Orang yang pindah dari **customer support ke UX research.**
+
 - Lu udah ngadepin real user pain points setiap hari. Lu tahu persis apa yang bikin user frustrasi.
 - Lu udah terlatih dengerin keluhan dan extract insight dari situ.
 - Lu ngerti tone dan bahasa yang resonate sama user — bukan cuma persona abstrak di Figma.
@@ -117,6 +121,7 @@ Di Builder, lu cukup punya *direction* — arah yang rough. Di Shifter, lu butuh
 Kenapa? Karena di Shifter, cost of change lebih tinggi. Lu bukan fresh grad yang bisa coba-coba 3 bulan lalu ganti arah. Lu punya tanggungan, gaji, mungkin keluarga. Setiap pivot harus lebih calculated.
 
 Vision di Shifter adalah gambaran tentang:
+
 - **Role atau field target:** Apa exactly yang lu incar?
 - **Kenapa ini:** Apa yang bikin field ini menarik — beyond "kayaknya keren" atau "gaji gede"?
 - **Apa value yang lu mau ciptakan di sana:** Ini penting. Bukan cuma "gw pengen kerja di tech" — tapi "gw pengen bantu perusahaan tech bikin keputusan finansial yang lebih data-driven, karena background gw di finance."
@@ -131,6 +136,7 @@ Kalau lu masih totally blurry tentang field target — lu mungkin masih di fase 
 Vision itu kompas. Transition Goal itu GPS coordinate.
 
 Transition Goal yang baik punya karakteristik:
+
 1. **Specific role or industry target.** Bukan "pindah ke tech" — tapi "Product Manager di tech startup series A-C."
 2. **Timeline.** Kapan lu mau fully transitioned? 6 bulan? 12 bulan? 18 bulan?
 3. **Intermediary milestones.** Apa yang harus terjadi di bulan ke-3, ke-6, ke-9?
@@ -159,6 +165,7 @@ Gw akan breakdown asset categories-nya:
 Ini knowledge spesifik tentang industri atau fungsi yang lu udah kuasai.
 
 Contoh:
+
 - Lu kerja di banking — lu ngerti regulasi keuangan, risk management, produk finansial.
 - Lu kerja di healthcare — lu ngerti alur pasien, sistem rujukan, terminologi medis.
 - Lu kerja di logistics — lu ngerti supply chain, inventory, last-mile delivery.
@@ -193,12 +200,14 @@ Ini semua adalah skills yang **nggak bisa dipelajarin dari bootcamp.** Ini diban
 Ini sering di-underestimate. Orang-orang yang udah kerja bareng lu selama ini — mereka adalah aset.
 
 Mereka udah tahu:
+
 - Lu reliable atau nggak
 - Lu deliver atau nggak
 - Lu enak diajak kerja sama atau nggak
 - Lu bisa diandelin di situasi sulit atau nggak
 
 Reputation ini udah built-in. Dan network ini bisa jadi:
+
 - Referral ke bidang baru (banyak perusahaan menghargai referral, bahkan dari bidang berbeda)
 - Bridge ke orang yang mereka kenal di bidang target lu
 - Testimoni tentang soft skill dan work ethic lu (yang bisa lu pakai di LinkedIn atau portfolio)
@@ -212,6 +221,7 @@ Reputation ini udah built-in. Dan network ini bisa jadi:
 Ini skills yang mungkin terlihat "nggak nyambung" — tapi sebenernya adjacent.
 
 Contoh:
+
 - Lu jago Excel dari kerjaan finance? Itu dasar untuk data analysis.
 - Lu biasa baca kontrak legal? Itu relevan buat compliance, procurement, atau vendor management.
 - Lu biasa bikin presentasi PowerPoint buat board meeting? Itu dasar untuk executive communication dan storytelling.
@@ -308,6 +318,7 @@ Kemampuan untuk tetap produktif, tenang, dan bisa ambil keputusan di tengah ambi
 **Political Savvy (bukan politik kantor yang toxic — tapi organizational intelligence).**
 
 Setelah bertahun-tahun di dunia kerja, lu belajar "cara baca ruangan." Lu ngerti:
+
 - Kapan harus push dan kapan harus back off
 - Gimana cara present ide ke orang yang berbeda (CFO vs CTO vs Head of Sales — masing-masing butuh bahasa yang beda)
 - Gimana cara dapetin buy-in tanpa authority formal
@@ -419,6 +430,7 @@ Bridge project adalah proyek di kantor/peran lu sekarang yang **aromanya sudah m
 Ini bukan side project di luar kantor. Ini proyek yang lu lakuin di dalam scope kerjaan lu sekarang — tapi lu consciously frame sebagai portfolio piece buat bidang target.
 
 Kenapa bridge project penting? Karena dia nge-solve dua masalah sekaligus:
+
 1. **Credibility Gap:** Lu punya bukti konkret bahwa lu bisa deliver di area yang related ke bidang target — dalam konteks profesional, bukan cuma project iseng.
 2. **Financial Safety:** Lu nggak perlu resign. Lu bangun portfolio sambil tetap digaji.
 
@@ -439,23 +451,25 @@ Dengan framing ini, Bridge Project bukan cuma "proyek sampingan." Dia adalah **v
 **Gimana cara identifikasi Bridge Project:**
 
 1. **Lihat kerjaan lu sekarang. Apa yang paling deket ke bidang target?**
-   - Lu sales pengen pindah ke product? Volunteer untuk jadi "voice of customer" di product meeting. Mulai kompilasi insight dari prospect dan bikin rekomendasi fitur.
-   - Lu finance pengen pindah ke data? Mulai automate report lu pakai Python atau SQL, instead of Excel manual. Bikin dashboard.
-   - Lu customer support pengen pindah ke UX? Mulai dokumentasiin pattern keluhan user. Bikin rekomendasi perbaikan UI berdasarkan tiket yang paling sering masuk.
-   - Lu HR pengen pindah ke project management? Ambil initiative untuk lead cross-functional project — misalnya company event, system migration HR, atau onboarding revamp.
+
+    - Lu sales pengen pindah ke product? Volunteer untuk jadi "voice of customer" di product meeting.
+    - Lu finance pengen pindah ke data? Mulai automate report lu pakai Python atau SQL.
+    - Lu customer support pengen pindah ke UX? Mulai dokumentasiin pattern keluhan user.
+    - Lu HR pengen pindah ke project management? Ambil initiative untuk lead cross-functional project.
 
 2. **Propose ke atasan lu — dengan framing yang bikin mereka dukung.**
    Jangan bilang: "Gw pengen pindah karier, boleh nggak gw nyoba ini?"
    Bilang: "Gw lihat ada opportunity untuk improve [sesuatu yang deket ke bidang target lu]. Gw mau volunteer untuk lead initiative ini. Ini expected impact-nya: [business value]. Gw akan tetap deliver tanggung jawab utama gw."
 
-   Atasan yang baik akan appreciate initiative. Dan kalau atasan lu nggak support lu berkembang? That's data. That tells you something about whether you should stay.
+      Atasan yang baik akan appreciate initiative. Dan kalau atasan lu nggak support lu berkembang? That's data. That tells you something about whether you should stay.
 
 3. **Dokumentasiin dengan struktur case study.**
-   Sama kayak Builder, Bridge Project harus lu dokumentasiin dengan struktur:
-   - **Context:** Apa situasi atau masalahnya?
-   - **Action:** Apa yang lu lakuin? (Spesifik.)
-   - **Result:** Apa hasilnya? (Quantifiable.)
-   - **Learning:** Apa yang lu pelajarin?
+
+    Sama kayak Builder, Bridge Project harus lu dokumentasiin dengan struktur:
+    - **Context:** Apa situasi atau masalahnya?
+    - **Action:** Apa yang lu lakuin? (Spesifik.)
+    - **Result:** Apa hasilnya? (Quantifiable.)
+    - **Learning:** Apa yang lu pelajarin?
 
 4. **Iterate dan build track record.**
    Satu bridge project bagus. Tapi 2-3 bridge project selama 6-12 bulan? Itu udah jadi portfolio yang solid. Lu bisa tunjukkin pattern: "Ini bukan one-off. Gw consistently gravitate dan deliver ke arah ini."
@@ -467,6 +481,7 @@ Misal nama lu Maya. Lu accountant di sebuah perusahaan retail. Tapi lu pengen pi
 Kerjaan accounting lu banyak ngurusin revenue reconciliation. Setiap bulan, lu manually compile data dari berbagai sumber — POS system, e-commerce platform, wholesale invoices — dan lu reconcile di Excel. Prosesnya makan 3 hari.
 
 Bridge Project Maya:
+
 - **Week 1-2:** Lu belajar basic SQL di luar jam kerja (malam, weekend).
 - **Week 3-4:** Lu mulai coba automate sebagian reconciliation pakai SQL queries. Lu test hasilnya — apakah SQL output lu match sama Excel manual lu? Belum sempurna, tapi mulai keliatan.
 - **Week 5-6:** Lu refine queries lu. Lu tambahin data sources. Sekarang proses yang biasanya 3 hari jadi 3 jam.
@@ -496,6 +511,7 @@ Ini bukan bohong. Ini bukan "spin." Ini adalah **highlighting what's relevant da
 **Sebelum Reframe (Akuntan — CV untuk bidang accounting):**
 
 > *PT Retail Nusantara — Senior Accountant (2019-2023)*
+
 > - Menyusun laporan keuangan bulanan dan tahunan
 > - Melakukan rekonsiliasi revenue dari berbagai channel penjualan
 > - Memastikan kepatuhan terhadap standar akuntansi PSAK
@@ -506,6 +522,7 @@ Ini solid — kalau lu apply ke accounting role. Tapi kalau lu apply ke data ana
 **Setelah Reframe (Akuntan — CV untuk Data Analytics):**
 
 > *PT Retail Nusantara — Senior Accountant (2019-2023)*
+
 > - **Menganalisis & merekonsiliasi** revenue data dari 5+ sales channels (offline, e-commerce, wholesale) — volume transaksi 10,000+/bulan
 > - **Mengidentifikasi anomali & discrepancy** dalam data finansial dan melakukan root cause analysis — menurunkan error rate rekonsiliasi sebesar 40%
 > - **Mengembangkan automated reconciliation system** menggunakan SQL, menggantikan proses manual 3 hari menjadi 3 jam — menghemat 250+ jam kerja per tahun
@@ -556,17 +573,20 @@ Ini bukan settling. Ini bukan "terjebak." Ini adalah **strategic staging.**
 Parallel Path punya 3 track yang berjalan bersamaan:
 
 **Track 1: Current Job (Income + Bridge Projects)**
+
 - Tetap deliver di kerjaan sekarang — ini income lu, safety net lu.
 - Aktif cari bridge projects yang memperkuat narasi transisi lu.
 - Jangan burn bridges — network lu sekarang mungkin jadi referral channel nanti.
 
 **Track 2: Targeted Skill-Building (Niche, bukan general)**
+
 - Jangan ambil "bootcamp 6 bulan semua hal tentang tech." Itu terlalu general.
 - Ambil skill spesifik yang bridging gap antara aset lu dan target role.
 - Contoh: Kalau lu finance → product, lu butuh product sense dan basic design thinking — bukan "belajar coding dari nol."
 - Belajar di luar jam kerja. Weekend. Malam. Commute time.
 
 **Track 3: Market Exploration & Networking**
+
 - Mulai reach out ke orang di bidang target. Bukan untuk minta kerjaan — tapi untuk belajar.
 - "Gw lagi transisi dari accounting ke data analytics. Boleh minta 20 menit cerita tentang experience lu sebagai data analyst? Gw pengen ngerti realita lapangannya."
 - Banyak orang yang mau sharing — kalau approach lu respectful dan lu nggak desperate.
@@ -583,21 +603,25 @@ Di Shifter, Review bukan cuma refleksi di akhir. Review adalah **checkpoint berk
 Setiap 2-3 bulan, tanya diri lu:
 
 **Asset side:**
+
 - Bridge projects apa yang udah gw selesaiin? Ada berapa case study baru?
 - Skill spesifik apa yang udah improve?
 - Network di bidang target udah bertambah berapa orang?
 
 **Narrative side:**
+
 - Apakah CV dan LinkedIn gw udah fully reframed ke bahasa bidang target?
 - Apakah elevator pitch gw udah smooth dan confident?
 - Apakah gw bisa menjawab "kenapa pindah?" dengan compelling — tanpa defensif?
 
 **Market feedback:**
+
 - Kalau udah mulai apply: berapa interview yang gw dapet? Di stage mana gw usually tersangkut?
 - Feedback apa yang gw dapet dari networking conversations? Apakah positioning gw resonate?
 - Apakah target role/industry gw masih feels right? Atau perlu adjustment?
 
 **Financial & Emotional Health:**
+
 - Apakah parallel path ini sustainable secara finansial?
 - Apakah gw masih punya energi dan mental headspace untuk terus push?
 - Apakah ada tanda-tanda burnout yang perlu gw address?
