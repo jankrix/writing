@@ -1,9 +1,13 @@
 ---
-title: Chapter 6 — The Universal Career-Building Loop
-description: Debugging your career — from Direction to Adjustment. Every cycle compounds your assets.
+title: NextPath: The Conscious Career Loop — Chapter 6
+description: Building Compounding Assets from First Step to Executive Leadership. The Universal Loop — Debug your career.
 ---
 
-# CHAPTER 6: THE UNIVERSAL CAREER-BUILDING LOOP
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
+
+## CHAPTER 6: THE UNIVERSAL CAREER-BUILDING LOOP
 
 ---
 

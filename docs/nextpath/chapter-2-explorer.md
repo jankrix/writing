@@ -1,9 +1,13 @@
 ---
-title: Chapter 2 — Level 1: The Explorer
-description: When vision is blurry, start with curiosity. Your career is a backpack — wear it first.
+title: NextPath: The Conscious Career Loop — Chapter 2
+description: Building Compounding Assets from First Step to Executive Leadership. Level 1: The Explorer — When vision is blurry, start with curiosity.
 ---
 
-# CHAPTER 2: LEVEL 1 — THE EXPLORER
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
+
+## CHAPTER 2: LEVEL 1 — THE EXPLORER
 
 ---
 

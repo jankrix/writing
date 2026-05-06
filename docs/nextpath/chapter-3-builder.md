@@ -1,9 +1,13 @@
 ---
-title: Chapter 3 — Level 2: The Builder
-description: From curiosity to competence. Closing the Proof Gap, one trophy at a time.
+title: NextPath: The Conscious Career Loop — Chapter 3
+description: Building Compounding Assets from First Step to Executive Leadership. Level 2: The Builder — From curiosity to competence.
 ---
 
-# CHAPTER 3: LEVEL 2 — THE BUILDER
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
+
+## CHAPTER 3: LEVEL 2 — THE BUILDER
 
 ---
 

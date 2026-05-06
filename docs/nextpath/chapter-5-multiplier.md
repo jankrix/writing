@@ -1,9 +1,13 @@
 ---
-title: Chapter 5 — Level 4: The Multiplier
-description: Work harder has a ceiling. Real growth starts when you multiply impact through people, process, and systems.
+title: NextPath: The Conscious Career Loop — Chapter 5
+description: Building Compounding Assets from First Step to Executive Leadership. Level 4: The Multiplier — Work harder has a ceiling.
 ---
 
-# CHAPTER 5: LEVEL 4 — THE MULTIPLIER
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
+
+## CHAPTER 5: LEVEL 4 — THE MULTIPLIER
 
 ---
 

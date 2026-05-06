@@ -1,9 +1,11 @@
 ---
-title: Introduction
-description: NextPath — A conscious path to building your career, one step at a time.
+title: NextPath: The Conscious Career Loop
+description: Building Compounding Assets from First Step to Executive Leadership. A career-building framework.
 ---
 
-# INTRODUCTION
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
 
 ---
 

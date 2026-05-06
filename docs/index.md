@@ -18,11 +18,11 @@ A book for operators, builders, managers, founders, and young executives who hav
 
 ---
 
-### [NextPath](nextpath/)
+### [NextPath: The Conscious Career Loop](nextpath/)
 
-*How to build your career consciously — one level at a time.*
+*Building Compounding Assets from First Step to Executive Leadership.*
 
-A career-building framework for anyone from fresh graduates to senior leaders. Not a race to win, but a path to build: Explorer → Builder → Shifter → Multiplier. Comes with a practical playbook you can fill in today.
+A career-building framework for compounding your assets — skills, proof, network, systems — across four levels: Explorer → Builder → Shifter → Multiplier. Start wherever you are. Run the loop. Compound your impact.
 
 *First draft complete.*
 

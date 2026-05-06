@@ -1,9 +1,13 @@
 ---
-title: Chapter 4 — Level 3: The Shifter
-description: Reposition, don't restart. How to pivot your career by reframing what you've already built.
+title: NextPath: The Conscious Career Loop — Chapter 4
+description: Building Compounding Assets from First Step to Executive Leadership. Level 3: The Shifter — Reposition, don't restart.
 ---
 
-# CHAPTER 4: LEVEL 3 — THE SHIFTER
+# NextPath: The Conscious Career Loop
+
+*Building Compounding Assets from First Step to Executive Leadership.*
+
+## CHAPTER 4: LEVEL 3 — THE SHIFTER
 
 ---
 
