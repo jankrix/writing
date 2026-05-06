@@ -34,6 +34,7 @@
 (Dalam 3 bulan, apa konkret yang mau gw hasilin?)
 
 **Starting Point (Reality Check):**
+
 - Skills I already have:
 - Time I can commit per week: ___ hours
 - Money/constraints I need to respect:
