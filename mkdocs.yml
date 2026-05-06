@@ -68,6 +68,7 @@ nav:
       - The Playbook: nextpath/the-playbook.md
 
 markdown_extensions:
+  - meta
   - admonition
   - pymdownx.details
   - pymdownx.superfences
