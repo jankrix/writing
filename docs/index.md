@@ -18,7 +18,7 @@ A book for operators, builders, managers, founders, and young executives who hav
 
 ---
 
-### [NextPath: The Conscious Career Loop](nextpath/)
+### [NextPath: The Conscious Career Loop](nextpath/index.md)
 
 *Building Compounding Assets from First Step to Executive Leadership.*
 
