@@ -54,15 +54,16 @@
 **Reflection (Month 3)**
 
 **Am I more interested or less interested in this direction?**
-- 
+- *(fill here)*
 
 **What part energized me? What part drained me?**
-- 
+- *(fill here)*
 
 **What proof do I now have?**
-- 
+- *(fill here)*
 
 **What's my next move?**
+
 - [ ] Go deeper in this field
 - [ ] Pivot to a new curiosity
 - [ ] I need more data — run another cycle
@@ -194,26 +195,32 @@ Direction → Reality → Gap → Action → Reflection → Adjustment
 Run through these when something feels off. The phase where you hesitate longest is likely where you're stuck.
 
 **Direction:**
+
 - [ ] Do I know what I'm curious about or moving toward — even roughly?
 - [ ] If I had to pick a direction for the next 3 months, what would it be?
 
 **Reality:**
+
 - [ ] Have I honestly listed what I *already have* (assets), not just what I'm missing?
 - [ ] What are my real constraints — time, money, energy, responsibilities?
 
 **Gap:**
+
 - [ ] What's the #1 thing blocking me from my direction?
 - [ ] If I could only close ONE gap in the next 3 months, which would create the most momentum?
 
 **Action:**
+
 - [ ] Is my next step specific, measurable, time-boxed, and realistic?
 - [ ] Am I *testing a hypothesis* or just "staying busy"?
 
 **Reflection:**
+
 - [ ] What did I learn from my last action?
 - [ ] What new asset did I gain? (Skill? Proof? Network? Data?)
 
 **Adjustment:**
+
 - [ ] Based on what I learned, what should I change for the next cycle?
 - [ ] Is my direction still right, or does it need a pivot?
 
