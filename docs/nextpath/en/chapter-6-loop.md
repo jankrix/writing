@@ -1,6 +1,7 @@
 ---
 title: NextPath: The Conscious Career Loop — Chapter 6
 description: Building Compounding Assets from First Step to Executive Leadership. The Universal Loop — Debug your career.
+hide: [footer]
 ---
 
 # NextPath: The Conscious Career Loop

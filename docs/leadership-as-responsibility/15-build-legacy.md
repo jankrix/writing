@@ -1,3 +1,7 @@
+---
+hide: [footer]
+---
+
 # 15. Build Legacy, Not Dependency
 
 The previous principle was about the organization depending on rescue. This one is about the organization depending on you.

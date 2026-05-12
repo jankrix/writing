@@ -1,3 +1,7 @@
+---
+hide: [footer]
+---
+
 # NextPath: The Conscious Career Loop
 
 Pilih bahasa untuk melanjutkan / Choose your language:

@@ -1,6 +1,7 @@
 ---
 title: NextPath: The Conscious Career Loop
 description: Building Compounding Assets from First Step to Executive Leadership. A career-building framework.
+hide: [footer]
 ---
 
 # NextPath: The Conscious Career Loop
