@@ -36,7 +36,7 @@ When you feel stuck, the answer isn't "do more." The answer is: **Understand the
 
 Six phases. One cycle. Repeated for the duration of your professional life.
 
-This is not a one-time framework; it is a **Continuous Improvement Engine.** Every iteration doesn't just move you from point A to B; it **compounds your assets.** Skills, proof, networks, judgment, and pattern recognition—these are the "dividends" of every completed loop.
+This is not a one-time framework; it is a **Continuous Improvement Engine.** Every iteration doesn't just move you from point A to B; it **compounds your assets.** The same five canonical assets from Chapter 4—Domain Knowledge, Soft Skills & Leadership, Network & Reputation, Adjacent Technical Skills, and Pattern Recognition (Judgment)—are the "dividends" of every completed loop.
 
 ---
 
@@ -59,8 +59,8 @@ This is the most frequently bypassed phase. Most jump from Direction to Action (
 
 A **Reality Audit** is a brutally honest diagnostic of your current state. It’s not about self-criticism; it’s about data collection. You must audit two sides:
 
-1. **Asset Side:** What do you already own? (Domain knowledge, soft skills, network, financial runway).
-2. **Constraint Side:** What are your limitations? (Time availability, family responsibilities, geographic or financial boundaries).
+1. **Asset Side:** What do you already own? Audit across the canonical five — Domain Knowledge, Soft Skills & Leadership, Network & Reputation, Adjacent Technical Skills, Pattern Recognition (Judgment). (Full breakdown in Chapter 4.)
+2. **Constraint Side:** What are your limitations? Time availability, family responsibilities, geographic boundaries, and **financial runway** — note that runway is a *constraint*, not an asset. Assets compound; runway only depletes.
 
 **The Mindset:** Treat this like a **System Diagnostic.** An engineer doesn't cry when a log shows a 404 error; they use that data to find the path forward.
 
@@ -127,7 +127,13 @@ Consider a **Builder** targeting a Product role:
 - **Loop 2:** Reaches out to 5 PMs for feedback. **Result:** New Network Asset + Market Insight.
 - **Loop 3:** Refines interview skills based on feedback. **Result:** New Communication Asset + Confidence.
 
-By the time they reach the "finish line," they aren't just a candidate; they are a professional with a stack of compounding assets. **The loop doesn't just move you; it builds you.**
+By the time they reach the "finish line," they aren't just a candidate; they are a professional with a stack of compounding assets.
+
+**But not every Reflection produces incremental refinement. Sometimes it produces a real direction change.**
+
+Consider another Builder targeting Product Management. In **Loop 1**, they build two PM case studies. Reflection surfaces something unexpected: the data-analysis work inside those case studies was energizing; the stakeholder-discovery work was draining. The hypothesis "I want to be a PM" is partially disproven. In **Loop 2**, Direction itself pivots — toward analytics-leaning product roles (Product Analyst, Data PM). The same Builder rebuilds proof in the new direction: a dashboard project, two analytical write-ups. **Loop 3** compounds in the new direction — interviews land for the right roles, and the earlier PM case studies actually help (they show product thinking layered on analytical depth). The first loop wasn't wasted; its real output was *better Direction*. That is what Adjustment does when Reflection earns it.
+
+**The loop doesn't just move you; it builds you.**
 
 ---
 

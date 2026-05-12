@@ -128,7 +128,9 @@ In the Explorer Level, there is no such thing as a "wrong choice" because you ar
 
 If you test a "Data Analyst" role for 3 months and realize you hate it—**that is a massive success.** You have successfully eliminated a path and narrowed your search. You are now closer to your true fit.
 
-The only way to fail at Level 1 is to stay stationary.
+The most common way to fail at Level 1 is to stay stationary — or to run experiments without reflecting on them.
+
+**A clean dead-end example.** A marketing associate suspects she wants to move into UX research. She runs a 3-month experiment: shadows two researchers, runs five user interviews on a side project, reads the standard textbook. The result: she's competent at the work, but it drains her. Slow synthesis, qualitative ambiguity, long feedback loops — none of it energizes her. She closes the loop with a clear verdict: "Not for me." That isn't failure. That is one path she no longer has to guess about. Two cycles later she lands in product marketing — and the UX research detour shows up as a transferable skill: she runs user interviews far more comfortably than her peers. The dead end became part of the foundation.
 
 **Stop waiting for a vision. Start a 3-month trial.**
 

@@ -87,6 +87,12 @@ As you go through this book, keep these principles in mind:
 1.  **You don’t need your whole life figured out.** You only need to understand your current level and the immediate gap in front of you.
 2.  **A "wrong" move is just data.** In this framework, every career move is a hypothesis. If it fails, you haven't wasted time—you've successfully gathered data to refine your next hypothesis.
 3.  **You are not your CV.** Your career is a project you are building, not your identity. There is peace in the distance between your professional title and your personal worth.
+4.  **Every loop compounds your assets.** Each cycle doesn't just move you — it grows five core assets that compound over time (unpacked in Chapter 4 and Chapter 6):
+    1. **Domain Knowledge** — industry- or function-specific insight outsiders lack.
+    2. **Soft Skills & Leadership** — stakeholder management, communication, navigating ambiguity.
+    3. **Network & Reputation** — people who already trust your work.
+    4. **Adjacent Technical Skills** — tools and methods that partially transfer.
+    5. **Pattern Recognition (Judgment)** — intuition built from hours in the arena.
 
 This is your path. Not a competition. Just a practical, conscious way to move forward—one gap, one level at a time.
 

@@ -132,6 +132,14 @@ Beberapa hal yang perlu lu inget waktu lu baca buku ini:
 
 **Satu langkah yang salah bukan berarti hidup lu wasted.** Di framework ini, setiap career move adalah hypothesis yang di-test — bukan final verdict. Kalau sesuatu nggak berhasil, lu nggak gagal. Lu baru aja ngumpulin data.
 
+**Dan setiap loop yang lu jalanin nggak cuma mindahin lu — tapi nambah aset lu.** Ada lima aset yang compound seiring waktu — dan ini yang bakal di-unpack di Chapter 4 dan Chapter 6:
+
+1. **Domain Knowledge** — insight tentang industri atau fungsi yang orang luar nggak punya.
+2. **Soft Skills & Leadership** — stakeholder management, communication, navigating ambiguity.
+3. **Network & Reputation** — orang-orang yang udah percaya sama lu.
+4. **Adjacent Technical Skills** — tools dan metode yang sebagian transfer ke arah baru.
+5. **Pattern Recognition (Judgment)** — intuisi yang dibangun dari jam terbang.
+
 **Lu bukan CV lu. Lu bukan title lu. Lu bukan rejection terakhir yang lu dapat.** Karier lu adalah sesuatu yang lu bangun. Karier lu bukan *siapa lu*. Jarak antara kerjaan lu dan worth lu — di situ peace tinggal.
 
 Gw nggak akan bohong dan bilang bahwa semua orang punya privilege atau kesempatan yang sama. Nggak. Ada yang jalannya lebih curam, ada yang start-nya lebih mundur, ada yang constraints-nya lebih berat. Tapi clarity dan conscious choice adalah sesuatu yang bisa lu bangun, nggak peduli dari titik mana lu mulai.

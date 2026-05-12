@@ -285,7 +285,9 @@ Kalau lu explore digital marketing selama 3 bulan dan sadar ini bukan untuk lu �
 Kalau lu explore coding selama 2 bulan dan ngerasa "gw lebih enjoy ngobrol sama orang daripada ngobrol sama komputer" — sukses. Data.
 Kalau lu explore design selama 1 bulan dan ternyata malah ketemu ketertarikan baru di bidang lain — sukses. Data.
 
-Satu-satunya cara untuk "gagal" di Level Explorer adalah **nggak explore sama sekali.** Duduk diam, nunggu kepastian yang nggak pernah datang, sementara waktu jalan terus.
+Cara paling umum buat "gagal" di Level Explorer adalah **nggak explore sama sekali** — atau **jalanin eksperimen tanpa pernah refleksi**. Duduk diam, nunggu kepastian yang nggak pernah datang, sementara waktu jalan terus. Atau lebih halus: pindah-pindah eksperimen tanpa pernah berhenti baca data dari yang udah dijalanin.
+
+**Contoh dead end yang bersih.** Seorang marketing associate curiga dia pengen pindah ke UX research. Dia jalanin eksperimen 3 bulan: shadowing dua researcher, jalanin lima user interview di side project, baca textbook standar. Hasilnya: dia kompeten ngerjainnya, tapi kerjanya bikin dia drained. Synthesis yang lambat, ambiguity kualitatif, feedback loop yang panjang — nggak ada bagian yang energizing buat dia. Dia tutup loop-nya dengan verdict yang jelas: "Bukan buat gw." Itu bukan kegagalan. Itu satu jalan yang nggak perlu dia tebak-tebak lagi. Dua siklus kemudian dia landed di product marketing — dan detour UX research itu muncul sebagai transferable skill: dia jauh lebih comfortable jalanin user interview dibandingkan peer-nya. Dead end itu jadi bagian dari pondasi.
 
 Jadi mulailah. Jangan nunggu yakin. Jangan nunggu panggilan jiwa. Jangan nunggu life plan yang sempurna. Lu nggak perlu itu semua.
 

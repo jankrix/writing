@@ -23,6 +23,12 @@ The issue isn't a lack of potential; it is a **Proof Gap**.
 
 ---
 
+## Builder vs. Shifter: A One-Line Definition
+
+Before going deeper: **a Builder is anyone proving competence in a new field for the first time — regardless of life stage.** A fresh graduate building proof in their first field is a Builder. A backend engineer of 5 years pivoting into security engineering, with no prior security track record, is also a Builder *within that field*. The distinction from Shifter is not age; it is **whether you have an existing track record in the field you're moving into.** Shifter (Chapter 4) is about repositioning existing assets across fields; Builder is about first-time proof.
+
+---
+
 ## The Core Shift: From Curiosity to Competence
 
 In the Explorer phase, your output was personal data.
@@ -40,7 +46,7 @@ A Builder requires a tangible output that can be reviewed, critiqued, and valida
 
 At Level 2, the feedback loop matures to focus on execution and validation:
 
-> **Direction → Goal → Present Reality → Gap → Build Plan → Review**
+> **Direction → Goal → Present Reality → Gap → Build Plan → Reflection & Adjustment**
 
 ### Phase 1: Direction
 You have identified a rough vector—a target role, field, or industry. You don't need 100% certainty, but you need enough conviction to commit for several months.
@@ -77,7 +83,7 @@ The market values **Case Studies**.
 3.  **Result:** What was the quantifiable outcome? (Efficiency gains, engagement growth, or specific deliverables.)
 4.  **Learning:** What strategic insight did you gain?
 
-Whether it’s a side project, a volunteer stint, or a university assignment, structure your work into 2–4 deep case studies. **Depth is more valuable than width.**
+Whether it’s a side project, a volunteer stint, or a university assignment, structure your work into 2–4 deep case studies. **Within a single field, depth beats width.** (Breadth across two fields is the Shifter's lever — see Chapter 4.)
 
 ---
 

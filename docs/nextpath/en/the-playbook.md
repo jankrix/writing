@@ -53,14 +53,23 @@ description: Quick-reference for conscious career building. One canvas at a time
 
 ### Section C: Post-Mortem Reflection
 
-**1. Interest Check:** 
-Is my affinity for this direction increasing or decreasing?
+> The reflection branches by audience. **Explorers** are testing *interest*; **Builders** are testing *proof and market resonance*. Pick the lane that matches where you are.
 
-**2. Energy Audit:**
-Which tasks provided 'lift'? Which tasks created 'drag'?
+**For Explorers — Interest Check & Energy Audit**
 
-**3. Asset Inventory:** 
-What tangible proof do I own now that I didn't own 90 days ago?
+**1. Interest Check:** Is my affinity for this direction increasing or decreasing?
+
+**2. Energy Audit:** Which tasks provided 'lift'? Which tasks created 'drag'?
+
+**For Builders — Proof Check & Market Resonance Audit**
+
+**1. Proof Check:** What concrete artifacts (case studies, projects, deliverables) did I produce? Are they portfolio-grade — would a hiring manager or client take them seriously?
+
+**2. Market Resonance Audit:** What signal did the market send? Response rate on applications. Quality of interview calls. Feedback from people in the target field. Where did the proof land, and where did it not?
+
+**For both — shared reflection**
+
+**3. Asset Inventory:** What tangible proof do I own now that I didn't own 90 days ago? Which of the canonical five assets did it grow?
 
 **4. Next Iteration:** 
 
@@ -77,12 +86,25 @@ What tangible proof do I own now that I didn't own 90 days ago?
 
 | Asset Category | Current Inventory | Strategic Value in Target Field |
 |---|---|---|
-| **Domain Expertise**<br><sub>Industry-specific insights</sub> | | |
-| **Soft Power & Leadership**<br><sub>Stakeholder mgmt, navigating ambiguity</sub> | | |
-| **Network & Social Capital**<br><sub>Referrals and "High-Trust" bridges</sub> | | |
-| **Technical/Adjacent Skills**<br><sub>Tools that partially transfer</sub> | | |
-| **Skill Arbitrage**<br><sub>Skills common in your old field but *rare* in the new one</sub> | | |
-| **Multilingual Bridge**<br><sub>Ability to translate between two industry silos</sub> | | |
+| **Domain Knowledge**<br><sub>Industry-specific insight outsiders lack</sub> | | |
+| **Soft Skills & Leadership**<br><sub>Stakeholder mgmt, navigating ambiguity</sub> | | |
+| **Network & Reputation**<br><sub>Referrals and "high-trust" bridges</sub> | | |
+| **Adjacent Technical Skills**<br><sub>Tools that partially transfer</sub> | | |
+| **Pattern Recognition (Judgment)**<br><sub>Intuition built from years of exposure</sub> | | |
+
+> **After filling:** Which 1–2 assets are your strongest differentiators? Lead with those in your narrative.
+
+---
+
+### Cross-cutting advantages — derived from the core five
+
+The five categories above are the canonical asset taxonomy. But two compound effects show up *across* those categories — and they are often the sharpest differentiators for a Shifter. They are **not** standalone asset categories. They are emergent advantages produced when the core five interact across two fields.
+
+**Skill Arbitrage** — A skill that lives in your *Adjacent Technical Skills* or *Soft Skills* column is "ordinary" in your old field but rare and expensive in the target field. The skill itself is from the core five; the *arbitrage* is the cross-field price gap. (Example: structured-anomaly thinking is baseline in audit, rare in data analytics.)
+
+**Multilingual Bridge** — Your *Domain Knowledge* from field A plus newly acquired *Domain Knowledge* / *Adjacent Skills* in field B let you translate between two industry languages. The bridge is not its own asset — it's what happens when domain knowledge accumulates on both sides.
+
+When you fill the table above, ask one more question per row: *Is this an arbitrage opportunity in my target field? Is this a bridge between my old domain and my new one?* That is where Shifter advantage actually lives.
 
 ---
 

@@ -37,9 +37,11 @@ There is a toxic phenomenon often mistaken for "dedication": **The Bottleneck Pr
 
 It looks like this: You are the lead, the manager, or the founder. You understand the product, the client, and the tech stack better than anyone. Consequently, every minor decision must pass through you. Every deliverable requires your final review. Every critical meeting demands your presence.
 
-This doesn't happen because you are a micromanager; it happens because *you actually are the most capable.* Your team isn't at your level yet, so if they act alone, the quality drops—or so you believe.
+This doesn't happen because you are a micromanager; it happens because you carry a belief: *if they act alone, the quality drops.* That belief may be right. It may also be wrong. Either way, **the belief itself is a hypothesis that needs to be tested** — not a fact to operate on.
 
-By acting as the ultimate quality control, you have become the **Single Point of Failure.**
+The diagnostic move is this: assume your team is more capable than you currently believe. Delegate with a safety net — a decision they own, a budget they control, a deliverable that lands without your final review. Watch what actually happens. Then let the result update your belief. If the work comes back at quality, the bottleneck was you, not them. If it doesn't, you now know exactly where the real capability gap sits — and you can close that gap directly, instead of hiding it behind your own bandwidth.
+
+By acting as the ultimate quality control without testing this belief, you have become the **Single Point of Failure.**
 
 As long as decisions require your bandwidth, the team's speed is capped by your personal limits. They cannot scale because you cannot scale. They don't grow because they are never given the room to fail, learn, or own a result. If you disappear tomorrow, the system collapses.
 
@@ -62,11 +64,23 @@ If you fail to make this shift, you will remain the best individual contributor 
 
 ---
 
+## The Multiplier Transition Is Also a Hypothesis
+
+The same protocol from the Shifter level applies here: **moving into the Multiplier role is a hypothesis, not a coronation.** The hypothesis is roughly: "I will create more value by multiplying through people and systems than by producing as an individual contributor."
+
+That can be wrong. Plenty of excellent ICs make mediocre Multipliers — not because they lack intelligence, but because the work itself doesn't fit them. The feedback loop is too slow. The dopamine of personal output is never replaced. The political weight drains energy faster than it creates any. The leader ends up multiplying anti-value: confusion instead of clarity, dependency instead of autonomy, fear instead of trust.
+
+**The off-ramp is real: return to IC.** Not as a demotion — as a recalibration. A staff engineer, ten years deep in his craft, accepts the promotion to engineering manager. He stops coding. He runs 1-on-1s, builds a hiring pipeline, sits in product meetings. Eighteen months later, the data is honest: his team is intact but not thriving, his calendar is full of meetings he resents, and his energy is gone by Wednesday. The hypothesis didn't hold. He talks to his director and steps back to a principal engineer track. Within six months his output returns — but now he is a principal engineer who actually *understands* why projects stall politically, who can pre-empt cross-team friction, who mentors juniors with far richer context. The "failed" Multiplier run made him a sharper IC. The data was useful even though the hypothesis didn't hold.
+
+A Multiplier who treats the transition as a hypothesis can update. One who treats it as the next mandatory rung will grind in a role that doesn't fit — or quietly resent the team they were supposed to enable.
+
+---
+
 ## The Multiplier Loop
 
 At Level 4, the operational loop shifts toward **Organizational Leverage**:
 
-> **Purpose → Strategic Goal → Current Leverage → System Gap → Multiplication Path → Review**
+> **Purpose → Strategic Goal → Current Leverage → System Gap → Multiplication Path → Reflection & Adjustment**
 
 ---
 
@@ -137,7 +151,7 @@ An Individual Contributor uses AI to write an email faster. A Multiplier uses AI
 
 ---
 
-### Phase 6: Review — "The System Health Check"
+### Phase 6: Reflection & Adjustment — "The System Health Check + Revise the System"
 
 Every 3–6 months, evaluate the health of your architecture:
 

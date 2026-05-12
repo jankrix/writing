@@ -181,7 +181,7 @@ Contoh Case Study (Builder Level — mahasiswa / fresh grad):
 
 Ini trophy. Ini bukti. Ini jauh lebih powerful daripada "gw bisa social media" di CV.
 
-Berapa banyak case study yang lu butuhin? Di Builder, targetnya **2-4 case study yang solid.** Nggak perlu 10. Yang penting deep, bukan wide. Masing-masing harus bisa lu ceritain dengan struktur Context-Action-Result-Learning.
+Berapa banyak case study yang lu butuhin? Di Builder, targetnya **2-4 case study yang solid.** Nggak perlu 10. Yang penting deep, bukan wide. Masing-masing harus bisa lu ceritain dengan struktur Context-Action-Result-Learning. **Di dalam satu bidang, depth ngalahin width** — itu rule Builder. (Width antar bidang itu lever-nya Shifter; lihat Chapter 4.)
 
 Case study bisa berasal dari:
 
@@ -238,6 +238,12 @@ Tapi lu bisa:
 Dalam 3 bulan, lu punya 2 portfolio project. Itu bukti bahwa lu bisa analisis data — bahkan sebelum lu punya title data analyst.
 
 Ini esensi dari Builder: **title nggak datang dulu, baru lu bisa ngerjain. Lu ngerjain dulu — baru title datang.**
+
+Dan Builder bukan cuma fresh grad. **Builder itu didefiniskan oleh field, bukan oleh umur atau senioritas lu di tempat lain.** Ini level yang lu jalanin pas lu *belum punya track record* di field yang lu mau masukin — first-time proof. Beda sama Shifter, yang fokusnya *reposisi track record yang udah lu punya* ke field yang adjacent. Lu bisa jadi senior di satu field dan Builder di field lain di waktu yang sama.
+
+Lu mungkin udah 3-5 tahun kerja di satu bidang — misalnya backend engineer — tapi lu pengen pindah lateral ke security engineering. Lu udah punya seniority di backend, tapi di security lu masih "Builder lagi" karena di security lu belum punya proof apa pun. Nggak ada yang akan kasih lu title security engineer cuma karena lu pinter backend.
+
+Tapi lu bisa: ambil 2-3 internal system di kantor lu, audit security posture-nya, tulis vulnerability report yang proper, propose mitigation. Kontribusi ke 1 open-source security tool. Ambil 1 cert yang relevan (OSCP, atau yang setara). Dalam 6 bulan, lu punya proof yang konkret — bukan cuma "gw tertarik security." Itu trophy lateral move lu. Builder loop yang sama, cuma trophy-nya yang beda.
 
 ---
 

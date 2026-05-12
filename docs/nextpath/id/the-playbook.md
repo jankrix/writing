@@ -54,13 +54,27 @@
 
 **Reflection (Month 3)**
 
+> Reflection-nya nge-branch tergantung lu Explorer atau Builder. **Explorer** lagi test *interest*. **Builder** lagi test *proof dan market resonance*. Pilih lane yang sesuai posisi lu sekarang.
+
+**Untuk Explorer — Interest Check & Energy Audit**
+
 **Am I more interested or less interested in this direction?**
 - *(fill here)*
 
 **What part energized me? What part drained me?**
 - *(fill here)*
 
-**What proof do I now have?**
+**Untuk Builder — Proof Check & Market Resonance Audit**
+
+**Apa concrete artifact yang udah gw produce? (case study, project, deliverable) — apakah portfolio-grade?**
+- *(fill here)*
+
+**Signal apa yang gw dapet dari market? (response rate, kualitas interview, feedback dari orang di target field — di mana proof gw landed, di mana nggak?)**
+- *(fill here)*
+
+**Buat keduanya — shared reflection**
+
+**What proof do I now have? (Aset apa dari canonical five yang nambah?)**
 - *(fill here)*
 
 **What's my next move?**
@@ -105,12 +119,22 @@
 | **Domain Knowledge**<br><sub>Industry insight outsiders don't have</sub> | | |
 | **Soft Skills & Leadership**<br><sub>Stakeholder mgmt, communication, navigating ambiguity</sub> | | |
 | **Network & Reputation**<br><sub>People who trust me, can refer me, or can bridge me</sub> | | |
-| **Technical / Adjacent Skills**<br><sub>Tools & methods that partially transfer</sub> | | |
-| **Pattern Recognition**<br><sub>Judgment & intuition built from years of exposure</sub> | | |
-| **Skill Arbitrage**<br><sub>Skills that are "ordinary" in my old field but *rare & expensive* in my target field</sub> | | |
-| **Multi-Lingual Bridge**<br><sub>Ability to translate between two industry languages</sub> | | |
+| **Adjacent Technical Skills**<br><sub>Tools & methods that partially transfer</sub> | | |
+| **Pattern Recognition (Judgment)**<br><sub>Intuition built from years of exposure</sub> | | |
 
 > **After filling:** Which 1-2 assets are your strongest differentiators? Lead with those in your narrative.
+
+---
+
+### Cross-cutting advantages — derived from the core five
+
+Lima kategori di atas adalah canonical asset taxonomy. Tapi ada dua compound effect yang muncul *lintas* kategori — dan ini sering jadi differentiator paling tajam buat Shifter. Mereka **bukan** standalone asset categories. Mereka adalah emergent advantages yang muncul waktu core five interact across two fields.
+
+**Skill Arbitrage** — Skill yang ada di kolom *Adjacent Technical Skills* atau *Soft Skills* lu — "biasa aja" di bidang lama, tapi langka dan mahal di bidang target. Skill-nya tetap dari core five; *arbitrage*-nya adalah cross-field price gap. (Contoh: structured-anomaly thinking itu baseline di audit, langka di data analytics.)
+
+**Multilingual Bridge** — *Domain Knowledge* lu dari field A plus *Domain Knowledge* / *Adjacent Skills* baru di field B bikin lu bisa nerjemahin antara dua industry languages. Bridge-nya bukan aset tersendiri — itu yang muncul waktu domain knowledge accumulate di kedua sisi.
+
+Waktu lu isi tabel di atas, tanya satu pertanyaan tambahan per row: *Ini arbitrage opportunity di target field gw nggak? Ini bridge antara domain lama dan baru gw nggak?* Di situ Shifter advantage beneran tinggal.
 
 ---
 

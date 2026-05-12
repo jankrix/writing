@@ -42,7 +42,7 @@ Enam fase. Satu siklus. Repeat seumur karier lu.
 
 Ini bukan framework yang cukup lu jalanin sekali terus selesai. Ini loop yang bakal lu jalanin berkali-kali — setiap kali lu stuck, setiap kali lu pengen level up, setiap kali arah lu berubah.
 
-Tapi ada satu hal yang lebih penting: **setiap loop bukan cuma mindahin lu dari A ke B. Setiap loop nambah aset lu.** Skill, proof, network, judgment, pattern recognition — semuanya compound. Dan itu yang bakal kita bahas setelah kita breakdown loop-nya.
+Tapi ada satu hal yang lebih penting: **setiap loop bukan cuma mindahin lu dari A ke B. Setiap loop nambah aset lu.** Lima aset yang sama dari Chapter 4 — Domain Knowledge, Soft Skills & Leadership, Network & Reputation, Adjacent Technical Skills, Pattern Recognition (Judgment) — semuanya compound. Dan itu yang bakal kita bahas setelah kita breakdown loop-nya.
 
 Let's break it down — but make it practical.
 
@@ -80,7 +80,9 @@ Reality Audit adalah process menghadapi posisi lu dengan brutal honest. Bukan bu
 
 Dan di sinilah konsep dari Chapter 4 (Shifter) jadi krusial di semua level: **Reality Audit bukan cuma list apa yang lu *nggak* punya. Reality Audit juga harus list apa yang lu *udah* punya.** Asset-aset yang selama ini belum lu sadari nilainya.
 
-Ini berlaku buat semua level. Explorer punya aset: energy, waktu, network kampus, akses ke komunitas. Builder punya aset: skill yang mulai terbentuk, portfolio kecil, understanding tentang field yang diincer. Shifter punya aset yang sudah extensive: domain knowledge, soft skills, network profesional, pattern recognition (Chapter 4 breakdown lengkap). Multiplier punya aset berupa tim, sistem yang udah berjalan, dan authority untuk bikin keputusan strategis.
+Ini berlaku buat semua level. Explorer punya aset: energy, waktu, network kampus, akses ke komunitas. Builder punya aset: skill yang mulai terbentuk, portfolio kecil, understanding tentang field yang diincer. Shifter punya aset yang sudah extensive di kelima kategori canonical — Domain Knowledge, Soft Skills & Leadership, Network & Reputation, Adjacent Technical Skills, Pattern Recognition (Judgment) — breakdown lengkapnya di Chapter 4. Multiplier punya aset berupa tim, sistem yang udah berjalan, dan authority untuk bikin keputusan strategis.
+
+Catatan: **financial runway** itu bukan aset di taksonomi ini — itu *constraint / resource* yang lu audit di Reality phase. Beda kategori. Aset adalah hal yang lu bangun dan compound; runway adalah konstrain yang ngebatasin berapa lama lu bisa jalanin loop.
 
 Jadi waktu lu audit Reality, ada dua sisi:
 - **Apa yang udah lu punya?** (Asset side — Chapter 4)
@@ -358,6 +360,10 @@ Karena aset dari satu loop jadi fondasi loop berikutnya. Dan semakin banyak loop
 
 Orang yang cuma jalanin satu loop? Mereka punya 2 case study. Impressive — for a start.
 Orang yang jalanin 5 loop? Mereka punya portfolio, network, CV yang proven, interview skills, dan 3 Bridge Projects. Plus judgment yang nggak bisa di-quantify — karena mereka udah lihat banyak skenario, udah gagal berkali-kali, udah belajar berkali-kali.
+
+**Tapi nggak semua Reflection menghasilkan incremental refinement. Kadang Reflection menghasilkan real direction change.**
+
+Bayangin Builder lain yang targetnya Product Management. **Loop 1**: dia bikin dua PM case study. Reflection-nya nge-surface sesuatu yang nggak diduga — bagian data analysis di case study-nya energizing; bagian stakeholder discovery-nya draining. Hipotesis "gw mau jadi PM" sebagian terbantah. **Loop 2**: Direction-nya sendiri pivot — ke analytics-leaning product roles (Product Analyst, Data PM). Builder yang sama rebuild proof di arah baru: satu dashboard project, dua analytical write-up. **Loop 3**: compound di arah baru — interview-nya landed di role yang tepat, dan dua PM case study dari Loop 1 justru bantu (mereka nunjukkin product thinking di atas analytical depth). Loop 1 nggak wasted; output sebenarnya dari Loop 1 itu *Direction yang lebih bener*. Itu yang Adjustment lakuin waktu Reflection-nya jujur.
 
 **The loop doesn't just move you. It builds you.**
 
