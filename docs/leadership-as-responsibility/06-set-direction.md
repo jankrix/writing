@@ -14,7 +14,7 @@ Output was not improving. New insights were not surfacing. The dashboards produc
 
 For about a month after I joined, I assumed the team was the variable. Lower energy. Less ambition. A team that had been running too long without a refresh.
 
-The diagnostic from the first chapter is what saved me from staying in that assumption longer than I did. The pattern was too consistent across too many people for it to be the people. A noisy mind reaches for the closest target. The team was the closest target. The system around them was invisible.
+The diagnostic from the first chapter is what saved me from staying in that read. The pattern was too consistent across too many people for the team to be the cause. When the same dip shows up across that many operators, the variable is almost never the operators. It is the conditions they are working inside.
 
 So we asked.
 
@@ -104,7 +104,7 @@ This is where the chapter's hardest work lives. It has three parts. They look re
 
 **Manage upward.** This one I have to land carefully because it is easy to misread.
 
-As a subordinate, one of your jobs is also to manage your CEO so your CEO becomes better.
+When you report to a volatile CEO, part of the job is turning raw input into a cleaner decision.
 
 That is not maneuvering the executive toward what you want. It is forcing one-idea selection so the executive can make a clean call. A volatile executive may voice three or four directions in a single conversation. If the leader passes all of those down to the team, the team gets shredded. If the leader picks one and asks the executive to confirm — *"of these, which one are we actually deciding on this quarter?"* — the executive is being held to the same standard the team is being held to. One mountain. One climb.
 
@@ -238,15 +238,13 @@ This chapter has more fences than usual. The principle is easy to misread in sev
 
 *Be the buffer* is not *insulate the team from leadership reality.* The team should still understand that priorities can shift, that the executive is human, that uncertainty is part of the work. The leader's job is to slow the shift down and translate it carefully — not to hide that shifts happen. A team that thinks the CEO never changes direction will be blindsided the day reality shows up.
 
-*Manage your CEO so the CEO becomes better* is not manipulation. It is forcing one-idea selection so the executive can make a clean call. The honest version is: the leader holds the executive accountable to one decision, the same way the leader holds the team accountable to one mountain. Both directions of accountability are part of the job. If this beat reads as upward maneuvering — steering the executive toward what the leader wants — the chapter has missed.
+*Turning raw input into a cleaner decision* is not manipulation. It is forcing one-idea selection so the executive can make a clean call. The honest version is: the leader holds the executive accountable to one decision, the same way the leader holds the team accountable to one mountain. Both directions of accountability are part of the job. If this beat reads as upward maneuvering — steering the executive toward what the leader wants — the chapter has missed.
 
 *Treat other inputs as noise* is not arbitrary filtering. It is pre-selection based on mission alignment, with reconfirmation before execution. Filtering without reconfirmation is dismissal. Filtering with reconfirmation is judgment. The discipline lives in the reconfirmation.
 
 *Hire the right roles* is not *solve every org problem with headcount.* The Story 1 fix included hiring, removing meetings, and restructuring — three moves at once. Sometimes the answer is restructuring. Sometimes the answer is removing. The leader who reaches for hiring first will build a bigger version of the same broken system.
 
-The point is not to slow everything down. The buffer is for unstable input. A leader who buffers everything becomes the bottleneck.
-
-The point is not control. The point is responsibility.
+The buffer is for unstable input. A leader who buffers everything becomes the bottleneck.
 
 The responsibility is to give the team a real mountain, a real path, and a real chance — and to keep upstream noise from stealing any of those.
 
@@ -287,5 +285,3 @@ A team can be busy every day and still go nowhere.
 The leader's job is to give them a mountain — and the time, the structure, the roles, and the clarity to climb it.
 
 And to keep the noise upstream from stealing any of that before it reaches them.
-
-That is the standard.

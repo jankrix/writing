@@ -1,5 +1,7 @@
 # 11. Own the Failure, Distribute the Credit
 
+Correction handles the individual case. This chapter is what the leader owes when the team fails visibly — own upward, correct inward, and do not collapse the two.
+
 The room was waiting for an answer.
 
 The project had failed. Not catastrophically — but visibly enough that the layer above me wanted to know what happened, and they wanted to know now.

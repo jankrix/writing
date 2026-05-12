@@ -1,5 +1,7 @@
 # 7. Build the Team for the Battle Ahead
 
+The team layer starts here. This chapter is about building the right team for the mission. The four that follow are about what you owe that team once it exists.
+
 Early-stage startup. Around $100,000 in funding. I joined as a senior founding team member.
 
 Not my first time inside a company like this — which is the part that should have made the architecture smarter than it turned out to be.
@@ -94,7 +96,7 @@ Complementary characters, because a team of identical shapes will fail in identi
 
 Trust, because doubling roles only works if the team trusts each other enough to let it work. Without trust, doubling becomes resentment.
 
-Those three are the architecture variables. Skill sits on top of them. Not the other way around.
+Those three are the architecture variables. Skill is the floor. But once the floor is there, learning capacity, complementary character, and trust determine whether the team survives uncertainty.
 
 ---
 
@@ -160,7 +162,9 @@ A leader who sells the mission honestly — including the difficulty, including 
 
 ## The framework — M.A.T.C.H.
 
-This is the framework I use now when I build a team. Five elements. They are sequential. Skipping one collapses the rest.
+I did not have this framework then. I built it later from the bruise.
+
+Five elements, in order. Skipping one collapses the rest.
 
 ### M — Mission. Define the battle.
 
@@ -350,6 +354,6 @@ The team I built then was the team the budget allowed. The team I learned how to
 
 A high-performing team is designed, aligned, and held to a shared standard.
 
-In a startup, you cannot avoid doubling roles. What matters is learning capacity.
+In a startup, you cannot avoid doubling roles. Once the skill floor is there, what matters is learning capacity.
 
 That is the standard.

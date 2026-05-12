@@ -1,6 +1,8 @@
 # 12. Communicate More When Things Are Unclear
 
-In the same crisis, a different pressure was building.
+During a product-stability crisis, a different pressure was building.
+
+The app experience had started degrading in ways the business could feel but the team could not yet fully explain. Some flows were unstable. Some fixes created new uncertainty. The visible symptom was delay and inconsistency. The hidden cause could have been tech debt, unclear ownership, capacity mismatch, or all three at once.
 
 The update went out before anyone had the full picture.
 

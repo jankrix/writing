@@ -1,5 +1,7 @@
 # 8. Serve the Team, Protect the Standard
 
+Once the team exists, the work shifts. Composition is upstream. Care without weakening the standard is what comes next.
+
 Before any of this story happened, there was a posture.
 
 I knew enough about my team's lives outside the office. Not as audit. Just as attention.
@@ -48,19 +50,23 @@ The standard is held for the team's sake. Not for the leader's authority.
 
 This is where the diagnostic enters. Not as a gate before extending empathy. As a way of paying attention once a pattern has emerged.
 
+Before the diagnostic, a fence that has to be set explicitly.
+
+Repeated does not mean fake. A sick parent, a mental-health season, childcare, a divorce, grief — these arrive in the team's lives and do not always show up once. Recurring struggle is not exploitation. When the pattern is real and ongoing, the system needs to change from emergency grace to explicit accommodation, redistribution, or role renegotiation. That is a different conversation, and it is the right one to have. The diagnostic below is not for that case. It is for the case where grace is being burned without engagement on the other side.
+
 !!! abstract ""
 
-    **The Real-vs-Made Diagnostic**
+    **The Pattern and Reciprocity Check**
 
     Before extending or restoring grace, ask:
 
-    **1. Is this a one-time event or a pattern?**
+    **1. Is this a one-time event, a recurring real case, or a pattern of avoidance?**
 
-    Real cases are usually one-time or intermittent. Made cases repeat with predictability.
+    A one-time event or intermittent need is usually obvious. A recurring real case needs explicit accommodation, not silent absorption. A pattern of avoidance repeats with predictability and without engagement.
 
     **2. Has the person engaged in redistribution, or are they assuming you will absorb?**
 
-    Real cases: the person actively names what they need delegated. Made cases: the person disappears and assumes you will cover.
+    Engaged: the person actively names what they need delegated. Avoidant: the person disappears and assumes you will cover.
 
     **3. Has the person reciprocated when others needed grace?**
 
@@ -100,29 +106,15 @@ His job is to earn the trust again. My job is to keep the system that has been b
 
 That sentence is the clearest framing I have for what the leader actually does in this moment. The repair work is not the leader's. The repair work belongs to the person who broke the trust. The leader's work is upstream of that — keeping the system intact while the repair happens.
 
-!!! abstract ""
+The leader's part of this is four moves, not a framework.
 
-    **The Repair-Belongs-to-the-Person Framework**
+Tell the team the truth without shaming. What happened, why the response is what it is. The pattern is the headline, not the person's name.
 
-    The repair belongs to the person who broke the trust. The leader's role is to:
+Require the repair to be done by the person, not the leader covering for them. Individual apologies, private. Not public-forum performance.
 
-    **1. Tell the team the truth without shaming.**
+Set a window. Two weeks is reasonable. The window itself is part of the standard.
 
-    What happened. Why the response is what it is. The pattern is the headline, not the person's name.
-
-    **2. Require the repair to be done by the person, not the leader covering for them.**
-
-    Individual apologies, private. Not public-forum performance.
-
-    **3. Set a window.**
-
-    Two weeks is reasonable. The window itself is part of the standard.
-
-    **4. Hold yourself to the same rhythm.**
-
-    When the leader was the one who let it go too long, the leader's admission lives in the team's existing cadence — not in a special apology session bolted on after the fact.
-
-The fourth one is the one most leaders will skip. It is also the one that keeps the framework honest. The same standard applies to the leader, expressed in the same rhythm. Without that, the framework is just a way of holding others accountable while staying clean.
+And — the one most leaders skip — hold yourself to the same rhythm. When the leader was the one who let it go too long, the leader's admission lives in the team's existing cadence, not in a special apology session bolted on after the fact. The same standard applies to the leader, expressed in the same rhythm. Without that, the move is just a way of holding others accountable while staying clean.
 
 The point is not to punish the senior. The point is to keep the system that protects the team.
 
@@ -186,7 +178,7 @@ A leader who serves the team and a leader who protects the standard are the same
 
 ## What bad leadership usually does
 
-The default is to treat empathy and standards as two settings that have to be chosen between. Kind this week, firm next week. Soft on Monday, hard on Friday.
+The easiest mistake is switching modes: soft when someone struggles, hard when the cost becomes visible. Kind this week, firm next week. Soft on Monday, hard on Friday.
 
 That is not a system. That is mood management.
 
@@ -267,5 +259,3 @@ Kindness without standards creates weakness. Standards without kindness creates 
 Empathy is a system, not an exception. The default is grace. The diagnostic is for the pattern.
 
 The repair belongs to the person who broke the trust. That includes the leader.
-
-That is the standard.

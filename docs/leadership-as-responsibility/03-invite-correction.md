@@ -110,7 +110,7 @@ Slowly.
 
 Not because the leader got dumber. Because the room got quieter.
 
-A leader who cannot be corrected becomes the team's biggest risk — and the leader is usually the last one to find out.
+A leader who cannot be corrected becomes one of the team's biggest risks — and usually the last one to find out.
 
 ---
 
@@ -256,9 +256,7 @@ Separate the tone problem from the truth problem. Hear the truth. Address the to
 
 And — this is the one that catches leaders most often — being correctable is not the same as performing humility. Real correctability has a price tag. The price tag in my first story was concrete — the public credibility I was afraid of losing in the moment the mid-level corrected me. That fear was the honest version of the cost. Performed humility is what happens when a leader wants the credit for being correctable without actually paying the price for it. The team can tell the difference.
 
-The point is not control of the room.
-
-The point is responsibility for what the leader's blind spot will cost the team if nobody is allowed to name it.
+The responsibility is for what the leader's blind spot will cost the team if nobody is allowed to name it.
 
 ---
 
@@ -290,6 +288,4 @@ The point is responsibility for what the leader's blind spot will cost the team 
 
 The standing invitation is what the team will trust at 11pm. It cannot be installed at 11pm.
 
-A leader who cannot be corrected becomes the team's biggest risk.
-
-That is the standard.
+A leader who cannot be corrected becomes one of the team's biggest risks — and usually the last one to find out.

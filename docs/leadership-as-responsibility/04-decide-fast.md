@@ -162,7 +162,7 @@ The point is not control. The point is responsibility.
 
 ### The Reversibility Match
 
-Before deciding, classify the call. Most sit cleanly in one category. Some sit between two — pick the closer one and hold the line.
+Before deciding, classify the call. Most sit cleanly in one category. Some sit between two — pick the closer one, hold the line until new information changes the category.
 
 !!! abstract ""
 
@@ -180,7 +180,7 @@ The five categories are the work. Most leaders do not need a more sophisticated 
 
 The marketing campaign was [**category 2 — reversible and medium-risk**](#rm-2). Bounded cost, counter-plan ready, review date built into the experiment by definition. It moved at category 2 speed because that is the speed it deserved.
 
-The feature kill was [**category 2**](#rm-2) the whole time — also reversible, also medium-risk. I treated it like [**category 4 — irreversible**](#rm-4). The mismatch is what cost the team multiple quarters. By the time the cost became visible, it had already been paid.
+The feature kill was [**category 2**](#rm-2) the whole time — also reversible, also medium-risk. Technically reversible because the code, the design, the learnings were all still there. Operationally medium-risk because real users existed, and a kill-then-revive would land on them, not only on the team. I treated it like [**category 4 — irreversible**](#rm-4). The mismatch is what cost the team multiple quarters. By the time the cost became visible, it had already been paid.
 
 ### The Bounded-Cost Test
 
@@ -235,5 +235,3 @@ This is the fence. Use it before the phrase, not after.
 Move fast when the cost of delay is higher than the cost of being wrong.
 
 Most slow-decision damage does not arrive as a crash. It arrives as a leak.
-
-That is the standard.

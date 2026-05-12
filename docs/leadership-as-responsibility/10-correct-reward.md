@@ -1,5 +1,7 @@
 # 10. Correct with Compassion, Reward with Fairness
 
+Development assumes people are reaching for the standard. This chapter is the other case — when people miss the standard, how correction stays fair without becoming punishment.
+
 The resume landed on my desk and held my attention longer than it should have.
 
 A Sales Manager at a large state-owned company, applying for a junior Product Manager role. The salary on offer was a fraction of what he was earning. The seniority drop was real. None of the numbers made sense on paper.
@@ -33,6 +35,14 @@ He was not lying. He was telling me, with surprising honesty, the only signal he
 The boss's mood.
 
 He was not working to the requirements of the job. He was working to my mood. And my mood had been telling him everything was fine.
+
+After the first warning sign, I did not treat the conclusion as final. I made the expectation explicit: he needed to show ownership of the delivery flow, clearer follow-through with stakeholders and developers, and better discipline in reporting the real product status instead of waiting for someone else to interpret it.
+
+The Senior PM support was not meant to rescue the role for him. It was meant to separate two questions: was he failing because the system had not given him enough context, or was he failing because the role required judgment he was not showing yet?
+
+So the probation extension had a window. The measure was not whether he looked busy. It was whether he could own the work with less correction, surface problems earlier, and create enough confidence that the team did not have to manage around him.
+
+That did not happen.
 
 I extended his probation. Moved him to a different team for a fresh start. The pattern held. The sessions were still skipped. The output never came. At the end of the extended period, I let him go.
 
@@ -179,5 +189,3 @@ Correct with respect. Reward with fairness. Never manipulate people into giving 
 If correction lands on identity, the person learns to defend themselves, not improve. If reward lands on mood, the person learns to read your face, not the work.
 
 Aim at behavior. Anchor on impact.
-
-That is the standard.

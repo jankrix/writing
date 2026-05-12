@@ -78,6 +78,8 @@ The price of my silence was paid by people I hired. I held back a two-week ask t
 
 That is the part that does not sit right and should not.
 
+I cannot honestly say my objection would have changed the decision. The CEO might have heard the two-week ask and overridden it anyway. What I know is that the risk did not get a place in the room, and I was the one who could have put it there. The failure I own is not the outcome. It is the absence.
+
 ---
 
 ## What bad leadership usually does
@@ -120,7 +122,7 @@ It is forwarded.
 
 A team that learns its leaders will not raise risk in the room learns to stop raising risk anywhere. Hard truths get filtered. Decisions get committed before the doubts can land. The next bad call finds the same silence waiting for it.
 
-And when the bill comes — because it does come — it does not come back to the person who chose the easy peace. It comes back to whoever is downstream. The team. The hire who joined three months ago. The person who trusted the system to be honest with them.
+And the bill, when it lands, lands downstream. On the team. On the hire who joined three months ago. On the person who trusted the system to be honest with them.
 
 That is the part most leaders never have to look at.
 
@@ -161,9 +163,7 @@ There is a craft to delivering it. The room being raw is real. Composure being t
 
 This is not a script. It is a posture. The objection is in service of the mission, and the way it is delivered should reflect that.
 
-The point is not confrontation.
-
-The point is honest courage in service of the mission, even when the room is raw.
+Honest courage in service of the mission, even when the room is raw — that is the move.
 
 ---
 
@@ -213,19 +213,7 @@ Before staying silent on a decision you disagree with, run four questions.
 
     That is the failure mode my own story sat inside.
 
----
-
-### The Cost Transfer rule
-
-Staying silent does not remove the cost. It transfers it.
-
-The math the leader is actually doing in the room is not "speak up versus keep peace."
-
-It is: *pay the cost now, in this room, in this moment of friction* — versus *transfer the cost to someone else, later, larger, and in a form I will not see coming.*
-
-That is the real trade.
-
-Once a leader sees the trade for what it is, the silence stops looking like peace and starts looking like a forwarded bill.
+The four questions sit on top of one underlying trade. Staying silent does not remove the cost. It transfers it. The math the leader is actually doing in the room is not "speak up versus keep peace." It is: *pay the cost now, in this room, in this moment of friction* — versus *transfer the cost to someone else, later, larger, and in a form I will not see coming.* Once a leader sees the trade for what it is, the silence stops looking like peace and starts looking like a forwarded bill.
 
 ---
 

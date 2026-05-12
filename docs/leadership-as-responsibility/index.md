@@ -67,11 +67,11 @@ The progression is **Self → Decision → Team → Communication → System.** 
 *Truth, clarity, framing, audience, crisis communication.*
 
 12. [Communicate More When Things Are Unclear](12-communicate-unclear.md)
-13. Adapt the Frame, Never the Truth *(in progress)*
+13. [Adapt the Frame, Never the Truth](13-adapt-frame.md)
 
 ### Part 5 — Build the System
 
 *Sustainability, process, operating model, legacy.*
 
-14. Build Systems, Not Heroics *(in progress)*
-15. Build Legacy, Not Dependency *(in progress)*
+14. [Build Systems, Not Heroics](14-build-systems.md)
+15. [Build Legacy, Not Dependency](15-build-legacy.md)

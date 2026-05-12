@@ -1,5 +1,7 @@
 # 9. Develop People Until They No Longer Need You
 
+Once the team exists and the standard is held, the next work is developing people into judgment. Care and standards keep the team intact. Development is how the team grows past needing you.
+
 I am not going to pretend the motivation was purely generous.
 
 I wanted the strongest team. Partly for the mission. Partly for me. Having sharp people around me made my own work better, made my own results better, made me look better. The development started from that impulse, not from a sense of managerial duty.
@@ -48,7 +50,15 @@ This was not a decision I had made. I had not sat down and said, *now I will pul
 
 A few months later, I noticed I had stopped interfering at all.
 
-A stakeholder conflict that would have pulled me in earlier — he resolved it. A crisis moment that would have escalated to me — he handled it and reported the outcome, not the panic. The maturity was visible. He was no longer running the work and asking me to validate it. He was running the work.
+The signal was not dramatic. No promotion announcement. No formal handover.
+
+A stakeholder conflict came up — the kind that would have pulled me in earlier. He handled the conversation himself, made the trade-off, and came back with the outcome instead of the panic.
+
+Then a crisis moment followed. Again, the old pattern would have been escalation first, judgment second. This time he contained it, made the first call, and reported what had been done.
+
+That was when I realized the loop had moved.
+
+He was no longer running the work and asking me to validate it. He was running the work.
 
 I did not plan a three-stage exit. I noticed the pattern after the fact.
 
@@ -186,6 +196,6 @@ Leadership is multiplication, not dependency.
 
 The best proof of leadership is when people become stronger after working with you, and the quietest proof is when they stop needing you to keep being strong.
 
-Be useful for as long as the person needs you. Let go cleanly when they do not.
+Be useful for as long as the person needs you.
 
-That is the standard.
+Let go cleanly when they do not.
