@@ -144,7 +144,7 @@ Build Plan bukan cuma rencana belajar. Build Plan adalah rencana untuk **memprod
 
 ## The Hunter's Trophies: Membangun Portfolio yang Bicara
 
-Bayangin lu pemburu. Lu balik ke desa, lu bilang ke semua orang "Gua jago berburu. Gua kuat. Gua akurat."
+Bayangin lu pemburu. Lu balik ke desa, lu bilang ke semua orang "Gw jago berburu. Gw kuat. Gw akurat."
 
 Orang-orang ngeliatin lu. "Oh ya? Mana buktinya?"
 
@@ -154,7 +154,7 @@ Ini fungsi portfolio dalam career building. Portfolio adalah **trophy hasil buru
 
 Banyak Builder bikin kesalahan: mereka bikin CV yang isinya cuma **list skill.** "Microsoft Office." "Basic Python." "Communication." "Teamwork."
 
-List skill itu kayak lu bilang "gua jago berburu" tanpa nunjukkin hasil buruan. Nggak ada yang terkesan. Nggak ada yang inget. Nggak ada yang percaya.
+List skill itu kayak lu bilang "gw jago berburu" tanpa nunjukkin hasil buruan. Nggak ada yang terkesan. Nggak ada yang inget. Nggak ada yang percaya.
 
 Yang bikin employer percaya adalah **case study.** Cerita tentang masalah yang lu hadapi, apa yang lu lakuin, dan apa hasilnya.
 
@@ -169,13 +169,13 @@ Contoh Case Study (Builder Level — mahasiswa / fresh grad):
 
 ----
 
-**Context:** "Organisasi kampus gua punya Instagram yang nggak aktif. Postingan terakhir 3 bulan lalu. Engagement hampir nol. Padahal mereka butuh visibility buat recruitment member baru."
+**Context:** "Organisasi kampus gw punya Instagram yang nggak aktif. Postingan terakhir 3 bulan lalu. Engagement hampir nol. Padahal mereka butuh visibility buat recruitment member baru."
 
-**Action:** "Gua volunteer handle Instagram mereka selama 3 bulan. Gua riset audience (mostly mahasiswa baru), bikin content pillars (3 pilar: edukasi, behind-the-scenes, testimoni), dan konsisten post 3x seminggu. Gua juga bikin template Canva supaya visualnya konsisten."
+**Action:** "Gw volunteer handle Instagram mereka selama 3 bulan. Gw riset audience (mostly mahasiswa baru), bikin content pillars (3 pilar: edukasi, behind-the-scenes, testimoni), dan konsisten post 3x seminggu. Gw juga bikin template Canva supaya visualnya konsisten."
 
 **Result:** "Follower naik dari 200 ke 600. Engagement rate naik dari 1% ke 8%. Recruitment member baru naik 40% dibanding periode sebelumnya."
 
-**Learning:** "Gua belajar bahwa konsistensi + relevansi konten lebih penting daripada aesthetic doang. Gua juga belajar cara ngatur content pipeline dan baca basic analytics."
+**Learning:** "Gw belajar bahwa konsistensi + relevansi konten lebih penting daripada aesthetic doang. Gw juga belajar cara ngatur content pipeline dan baca basic analytics."
 
 ----
 
@@ -199,21 +199,21 @@ Kalau lu belum punya experience formal — **bikin sendiri.** Itu justru yang nu
 
 ## The System Design Pivot: Cerita Transisi ke Analysis
 
-Gua mau cerita pengalaman pribadi — karena ini relevan banget buat Builder yang lagi transisi dari satu identity ke identity lain.
+Gw mau cerita pengalaman pribadi — karena ini relevan banget buat Builder yang lagi transisi dari satu identity ke identity lain.
 
-Ada masanya gua mulai tertarik ke analysis dan system design. Masalah gede. Problem solving yang structural. Gimana caranya bikin sesuatu yang scalable dan efisien.
+Ada masanya gw mulai tertarik ke analysis dan system design. Masalah gede. Problem solving yang structural. Gimana caranya bikin sesuatu yang scalable dan efisien.
 
-Tapi ada satu problem: **title gua bukan analyst.** Background gua bukan computer science hanya IT. Di CV, nggak ada yang bilang "system designer."
+Tapi ada satu problem: **title gw bukan analyst.** Background gw bukan computer science hanya IT. Di CV, nggak ada yang bilang "system designer."
 
-Jadi gimana caranya gua buktiin analytical thinking gua — padahal gua belum punya title atau pengalaman formal di bidang itu?
+Jadi gimana caranya gw buktiin analytical thinking gw — padahal gw belum punya title atau pengalaman formal di bidang itu?
 
-Jawabannya: **gua bikin sendiri proof-nya.**
+Jawabannya: **gw bikin sendiri proof-nya.**
 
-Gua mulai analisis hal-hal di sekitar gua. Gua breakdown process yang gua lihat. Gua dokumentasiin pola-pola yang gua temuin. Gua tulis. Gua rangkum. Gua bikin framework dari observasi gua.
+Gw mulai analisis hal-hal di sekitar gw. Gw breakdown process yang gw lihat. GW dokumentasiin pola-pola yang gw temuin. Gw tulis. Gw rangkum. Gw bikin framework dari observasi gw.
 
-Gua nggak nunggu seseorang kasih gua title "analyst" dulu sebelum gua mulai mikir kayak analyst. Gua mikir kayak analyst dulu — dan buktinya muncul dari cara gua ngejelasin ide, cara gua nyusun argumen, cara gua breakdown masalah kompleks jadi bagian-bagian yang bisa di-solve.
+Gw nggak nunggu seseorang kasih gw title "analyst" dulu sebelum gw mulai mikir kayak analyst. Gw mikir kayak analyst dulu — dan buktinya muncul dari cara gw ngejelasin ide, cara gw nyusun argumen, cara gw breakdown masalah kompleks jadi bagian-bagian yang bisa di-solve.
 
-Ini yang gua sebut **proving by doing.** Lu nggak perlu izin. Lu nggak perlu title. Lu cuma perlu mulai ngerjain — dan dokumentasiin prosesnya.
+Ini yang gw sebut **proving by doing.** Lu nggak perlu izin. Lu nggak perlu title. Lu cuma perlu mulai ngerjain — dan dokumentasiin prosesnya.
 
 Contoh praktis buat Builder yang lagi di posisi serupa:
 
