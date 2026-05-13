@@ -209,7 +209,7 @@ Jadi gimana caranya gw buktiin analytical thinking gw — padahal gw belum punya
 
 Jawabannya: **gw bikin sendiri proof-nya.**
 
-Gw mulai analisis hal-hal di sekitar gw. Gw breakdown process yang gw lihat. GW dokumentasiin pola-pola yang gw temuin. Gw tulis. Gw rangkum. Gw bikin framework dari observasi gw.
+Gw mulai analisis hal-hal di sekitar gw. Gw breakdown process yang gw lihat. Gw dokumentasiin pola-pola yang gw temuin. Gw tulis. Gw rangkum. Gw bikin framework dari observasi gw.
 
 Gw nggak nunggu seseorang kasih gw title "analyst" dulu sebelum gw mulai mikir kayak analyst. Gw mikir kayak analyst dulu — dan buktinya muncul dari cara gw ngejelasin ide, cara gw nyusun argumen, cara gw breakdown masalah kompleks jadi bagian-bagian yang bisa di-solve.
 

@@ -8,13 +8,15 @@ Practical, not polished. Useful, not beautiful.
 
 ## Books
 
+> *These books are living drafts. Versions update as the work matures.*
+
 ### [Leadership as Responsibility](leadership-as-responsibility/)
 
 *How to think, decide, and lead when things are messy.*
 
 A book for operators, builders, managers, founders, and young executives who have to lead inside real environments — unclear ownership, crisis, ego, weak systems, CEO pressure, politics, bad incentives, repeated mistakes. Leadership from the dirty side, not the clean side.
 
-*In progress.*
+*v3*
 
 ---
 
@@ -24,8 +26,4 @@ A book for operators, builders, managers, founders, and young executives who hav
 
 A career-building framework for compounding your assets — skills, proof, network, systems — across four levels: Explorer → Builder → Shifter → Multiplier. Start wherever you are. Run the loop. Compound your impact.
 
-*First draft complete.*
-
----
-
-*More books coming.*
+*v2*
